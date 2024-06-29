@@ -4,9 +4,8 @@ about:
   image: "https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100"
   name:
     en: "B2NKUU"
-    th: "แบงค์"
+    th: "แบงคุ"
     jp: "ベンクー"
-    zh: "本庫"
   fullname: "Nutchaitat Tantanasuwan"
   headline: "Software Developer"
   livein: "Bangkok, Thailand"
@@ -35,10 +34,6 @@ about:
       shields-icon: 'linkedin'
       color: '0072b1'
       link: "https://www.linkedin.com/in/bankuu"
-    email:
-      name: 'Email' 
-      color: '444444'
-      link: "mailto:ban.kuu@yahoo.com"
 skill:
   golang:
     name: "Golang"

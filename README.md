@@ -1,6 +1,6 @@
-### 🙏🏽 Sawandee [Hi] - I'm B2NKUU [แบงค์, ベンクー, 本庫]
+### 🙏🏽 Sawandee [Hi] - I'm B2NKUU [แบงคุ, ベンクー]
 
-[![Github](https://img.shields.io/badge/-Github-666699?style=flat-square&amp;labelColor=666699&amp;logoColor=white&amp;logo=github)](https://github.com/b2nkuu) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&amp;labelColor=0072b1&amp;logoColor=white&amp;logo=linkedin)](https://www.linkedin.com/in/bankuu) [![Email](https://img.shields.io/badge/-Email-444444?style=flat-square&amp;labelColor=444444&amp;logoColor=white&amp;logo=)](mailto:ban.kuu@yahoo.com)
+[![Github](https://img.shields.io/badge/-Github-666699?style=flat-square&amp;labelColor=666699&amp;logoColor=white&amp;logo=github)](https://github.com/b2nkuu) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&amp;labelColor=0072b1&amp;logoColor=white&amp;logo=linkedin)](https://www.linkedin.com/in/bankuu)
 
 ---
 
