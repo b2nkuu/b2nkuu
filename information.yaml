@@ -1,0 +1,114 @@
+version: "2023-01-29"
+
+about:
+  image: "https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100"
+  name:
+    en: "B2NKUU"
+    th: "แบงค์"
+    jp: "ベンクー"
+    zh: "本庫"
+  fullname: "Nutchaitat Tantanasuwan"
+  headline: "Software Developer"
+  livein: "Bangkok, Thailand"
+  birthday: "1990-04-10"
+  wallet:
+    btc:
+      name: 'BTC Wallet' 
+      code: 'BTC'   
+      address: "bc1qg70u2ktv5hs4qme8qups9uvcumfschd0g6u0q9"
+    eth:
+      name: 'ETH Wallet'
+      code: 'ETH'
+      address: "0x3D7F6f2C2d18cbbfeD97A434F024b0C316Ff2a32"
+    ton:
+      name: 'TON Wallet' 
+      code: 'TON'   
+      address: "UQAIt0LUCrK7DLb13q6qgzUMWiG7piTbYNhR4KkzfsFelRMS (b2nkuu-wallet.ton)"
+  contact:
+    github:  
+      name: 'Github'
+      shields-icon: 'github'
+      color: '666699'
+      link: "https://github.com/b2nkuu"
+    linkedin:
+      name: 'LinkedIn'
+      shields-icon: 'linkedin'
+      color: '0072b1'
+      link: "https://www.linkedin.com/in/bankuu"
+    email:
+      name: 'Email' 
+      color: '444444'
+      link: "mailto:ban.kuu@yahoo.com"
+skill:
+  golang:
+    name: "Golang"
+    library:
+      gofiber:
+        name: "Gofiber"
+        github: "https://github.com/gofiber/fiber"
+      echo:
+        name: "Echo"
+        github: "https://github.com/labstack/echo"
+  dart:
+    name: "Dart"
+    library:
+      flutter:
+        name: "Flutter"
+        github: "https://github.com/flutter"
+      autoroute:
+        name: "Auto Route"
+        github: "https://github.com/Milad-Akarie/auto_route_library"
+      riverpod:
+        name: "Riverpod"
+        github: "https://github.com/rrousselgit/riverpod"
+      freezed:
+        name: "Freezed"
+        github: "https://github.com/rrousselGit/freezed"
+  other:
+    name: "Other"
+    library:
+      firebase:
+        name: "Google Firebase"
+        github: "https://github.com/firebase"
+      grpc:
+        name: "gRPC"
+        github: "https://github.com/grpc/grpc"
+      reactivex:
+        name: "ReactiveX"
+        github: "https://github.com/ReactiveX"
+experience:
+  - code: "tpit"
+    name: "Tri Petch IT Solutions Co., Ltd." 
+    link: "https://www.tripetchgroup.com/en/tripetchitsolutions"
+    year: "2022 ~ now"
+  - code: "duckgroup"
+    name: "Duckgorup Co., Ltd." 
+    link: "https://www.duckgroup.co"
+  - code: "devtor-technology"
+    name: "Devtor Technology"
+    link: "https://devtor.technology"
+    year: "2021 ~ Now"
+  - code: "kayena"
+    name: "Kayena Marketing Simulations"
+    link: "https://kayena-simulations.io"
+    year: "2022 ~ 2022"
+  - code: "tdev"
+    name: "T-DEV Co., Ltd."
+    link: "https://t-dev.co"
+    year: "2018 ~ 2022"
+  - code: "bighead"
+    name: "Bighead Creative Co., Ltd."
+    link: "https://bighead-creative.com"
+    year: "2016 ~ 2018"
+  - code: "pinperty"
+    name: "Pinperty Co., Ltd."
+    link: "https://pinperty.com"
+    year: "2015 ~ 2016"
+  - code: "uih"
+    name: "UIH Co., Ltd."
+    link: "http://uih.co.th"
+    year: "2014 ~ 2015"
+  - code: "nysiis"
+    name: "Nysiis Solutions Co., Ltd."
+    link: "http://nysiissolutions.com"
+    year: "2012 ~ 2014"
