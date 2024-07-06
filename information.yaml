@@ -12,19 +12,19 @@ about:
   birthday: "1990-04-10"
   wallet:
     btc:
-      name: 'BTC Wallet' 
-      code: 'BTC'   
+      name: 'BTC Wallet'
+      code: 'BTC'
       address: "bc1qg70u2ktv5hs4qme8qups9uvcumfschd0g6u0q9"
     eth:
       name: 'ETH Wallet'
       code: 'ETH'
       address: "0x3D7F6f2C2d18cbbfeD97A434F024b0C316Ff2a32"
     ton:
-      name: 'TON Wallet' 
-      code: 'TON'   
+      name: 'TON Wallet'
+      code: 'TON'
       address: "UQAIt0LUCrK7DLb13q6qgzUMWiG7piTbYNhR4KkzfsFelRMS (b2nkuu-wallet.ton)"
   contact:
-    github:  
+    github:
       name: 'Github'
       shields-icon: 'github'
       color: '666699'
@@ -34,6 +34,11 @@ about:
       shields-icon: 'linkedin'
       color: '0072b1'
       link: "https://www.linkedin.com/in/bankuu"
+    email:
+      name: 'Email'
+      shields-icon: 'email'
+      color: '0072b1'
+      link: "mailto:ban.kuu@yahoo.com"
 skill:
   golang:
     name: "Golang"
@@ -73,11 +78,11 @@ skill:
         github: "https://github.com/ReactiveX"
 experience:
   - code: "tpit"
-    name: "Tri Petch IT Solutions Co., Ltd." 
+    name: "Tri Petch IT Solutions Co., Ltd."
     link: "https://www.tripetchgroup.com/en/tripetchitsolutions"
     year: "2022 ~ now"
   - code: "duckgroup"
-    name: "Duckgorup Co., Ltd." 
+    name: "Duckgorup Co., Ltd."
     link: "https://www.duckgroup.co"
     year: "2022 ~ now"
   - code: "devtor-technology"
