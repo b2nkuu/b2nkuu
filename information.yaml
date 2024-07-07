@@ -36,8 +36,8 @@ about:
       link: "https://www.linkedin.com/in/bankuu"
     email:
       name: 'Email'
-      shields-icon: 'email'
-      color: '0072b1'
+      shields-icon: 'gmail'
+      color: '643b9f'
       link: "mailto:ban.kuu@yahoo.com"
 skill:
   golang:
