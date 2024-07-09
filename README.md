@@ -18,7 +18,7 @@ TON : UQAIt0LUCrK7DLb13q6qgzUMWiG7piTbYNhR4KkzfsFelRMS (b2nkuu-wallet.ton)
 
 - 🖥️ Currently working at [Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions)
 - ⌨️ Currently freelance at [Duckgorup Co., Ltd.](https://www.duckgroup.co)
-- 💎 Currently avocation at [Devtor Technology](https://devtor.technology)
+- 💎 Currently avocation at [The Open Network](https://ton.org/)
 - 🛌 Live in Bangkok, Thailand
 
 ---
