@@ -44420,7 +44420,7 @@ o=B.bE
 n=B.bE
 m=A
 s=3
-return A.X($.ED().acE("packages/b2nkuu_resource/assets/information.yaml"),$async$ty)
+return A.X($.ED().acE("packages/b2nkuu_resource/information/information.yaml"),$async$ty)
 case 3:q=p.aE5(o.Ok(n.qP(m.aJk(b,null,!1,null).a.gq()),null))
 s=1
 break
@@ -44431,7 +44431,7 @@ tA(){var s=0,r=A.R(t.V4),q
 var $async$tA=A.S(function(a,b){if(a===1)return A.O(b,r)
 while(true)switch(s){case 0:s=3
 return A.X(A.a7z(),$async$tA)
-case 3:q=$.ED().kk("packages/b2nkuu_resource/assets/rive/b2nkuu-info-logo.riv")
+case 3:q=$.ED().kk("packages/b2nkuu_resource/information/rive/b2nkuu-info-logo.riv")
 s=1
 break
 case 1:return A.P(q,r)}})
