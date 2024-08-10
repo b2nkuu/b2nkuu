@@ -9,7 +9,7 @@
 ```generic
 BTC : bc1qg70u2ktv5hs4qme8qups9uvcumfschd0g6u0q9
 ETH : 0x3D7F6f2C2d18cbbfeD97A434F024b0C316Ff2a32
-TON : UQAIt0LUCrK7DLb13q6qgzUMWiG7piTbYNhR4KkzfsFelRMS (b2nkuu-wallet.ton)
+TON : UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI (b2nkuu-wallet.ton)
 ```
 
 ---
