@@ -76,6 +76,13 @@ skill:
       reactivex:
         name: "ReactiveX"
         github: "https://github.com/ReactiveX"
+contributor:
+  mytonwallet:
+    name: "MyTonWallet"
+    link: "https://github.com/mytonwalletorg/mytonwallet"
+  fluttergen: 
+    name: "FlutterGen"
+    link: "https://github.com/FlutterGen/flutter_gen"
 experience:
   - code: "tpit"
     name: "Tri Petch IT Solutions Co., Ltd."
