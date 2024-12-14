@@ -11,14 +11,6 @@ about:
   livein: "Bangkok, Thailand"
   birthday: "1990-04-10"
   wallet:
-    btc:
-      name: 'BTC Wallet'
-      code: 'BTC'
-      address: "bc1qg70u2ktv5hs4qme8qups9uvcumfschd0g6u0q9"
-    eth:
-      name: 'ETH Wallet'
-      code: 'ETH'
-      address: "0x3D7F6f2C2d18cbbfeD97A434F024b0C316Ff2a32"
     ton:
       name: 'TON Wallet'
       code: 'TON'
@@ -33,7 +25,7 @@ about:
       name: 'LinkedIn'
       shields-icon: 'linkedin'
       color: '0072b1'
-      link: "https://www.linkedin.com/in/bankuu"
+      link: "https://www.linkedin.com/in/b2nkuu"
     email:
       name: 'Email'
       shields-icon: 'gmail'

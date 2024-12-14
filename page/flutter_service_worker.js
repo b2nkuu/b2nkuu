@@ -12,7 +12,7 @@ const RESOURCES = {"flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "17ee8e30dde24e349e70ffcdc0073fb0",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "04f83c01dded195a11d21c2edf643455",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "f3307f62ddff94d2cd8b103daf8d1b0f",
-"assets/packages/b2nkuu_resource/information/information.yaml": "d874cb0c2e1632d752ee42bdcfd8e5d9",
+"assets/packages/b2nkuu_resource/information/information.yaml": "d1360d46ae42fae2dc689af800f98e73",
 "assets/packages/b2nkuu_resource/information/image/skill-ton.png": "dcfdb015e04e8ff801783c181811063e",
 "assets/packages/b2nkuu_resource/information/image/experience-uih.png": "982de82d2cf2b03baf2df5c84699e99d",
 "assets/packages/b2nkuu_resource/information/image/experience-bighead.png": "25743957c170aa89a3bb98b762764793",
@@ -60,7 +60,7 @@ const RESOURCES = {"flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
 "icons/icon-512-maskable.png": "d0a2b124ad6d10f7cbe71b9e9647b058",
 "favicon.png": "776857794a22e09031f12fd863a2b887",
 "version.json": "94dbf51cc9cdcdb86156b2afadd35edc",
-"flutter_bootstrap.js": "092bd04697f5234a6d71911004bdad93"};
+"flutter_bootstrap.js": "d0ca856033559db4a49b25cc5f60c7b5"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
