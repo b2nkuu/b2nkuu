@@ -14,8 +14,9 @@ TON : UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI (b2nkuu-wallet.ton)
 
 ### 🙋🏽 My Facts
 
-- 🖥️ Currently working at [Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions)
-- ⌨️ Currently freelance at [Duckgroup Co., Ltd.](https://www.duckgroup.co)
+- 🛻 Currently working at [Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions)
+- 🦆 Currently freelance at [Duckgroup Co., Ltd.](https://www.duckgroup.co)
+- ⌨️ Currently founding at [Devtor Technology Co., Ltd.](https://devtor.technology)
 - 💎 Currently avocation at [The Open Network](https://ton.org/)
 - 🛌 Live in Bangkok, Thailand
 
