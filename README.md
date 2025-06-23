@@ -8,7 +8,7 @@
 
 ```generic
 BTC : bc1q20rqz33am2ggeugahm4543jtpesh05tw8ws5p3
-KUB : 0x443b3f4ecff28b16601F848E43190a259e2f8273
+KUB : 0x443b3f4ecff28b16601F848E43190a259e2f8273 (b2nkuu-wallet.kub)
 TON : UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI (b2nkuu-wallet.ton)
 ```
 

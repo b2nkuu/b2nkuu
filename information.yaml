@@ -18,7 +18,7 @@ about:
     kub:
       name: 'Bikub NEXT Account'
       code: 'KUB'
-      address: "0x443b3f4ecff28b16601F848E43190a259e2f8273"
+      address: "0x443b3f4ecff28b16601F848E43190a259e2f8273 (b2nkuu-wallet.kub)"
     ton:
       name: 'TON Wallet'
       code: 'TON'
