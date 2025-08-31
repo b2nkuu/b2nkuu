@@ -24,7 +24,6 @@ I'm a passionate **Senior Mobile Developer** and **Co-Founder** based in Bangkok
 |---------|------|----------|------------|
 | **Tri Petch IT Solutions** | **Senior Mobile Developer** | 2022 ~ now | Flutter + Riverpod • Kotlin • Swift • Bitrise CI/CD |
 | **P'nB Solutions** | **Co-Founder** | 2025 ~ now | Leadership • Strategy • Development |
-| **Siamese Codes** | **Founder** | 2025 ~ now | Contributor |
 | **Duckgroup** | **Freelance System Developer** | 2022 ~ now | Golang • PostgreSQL • Redis • AWS |
 
 </div>
