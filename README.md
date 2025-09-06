@@ -3,14 +3,14 @@
 <div align="center">
   <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100" alt="B2NKUU" width="100" height="100" style="border-radius: 50%;">
   
-  ### **Nutchaitat Tantanasuwan**
+### **Nutchaitat Tantanasuwan**
+
   *Software Developer* | *Bangkok, Thailand* 🇹🇭
   
   [![GitHub](https://img.shields.io/badge/GitHub-666699?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b2nkuu)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b2nkuu)
   [![Email](https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ban.kuu@yahoo.com)
 </div>
-
 
 ## 🚀 About Me
 
@@ -31,6 +31,7 @@ I'm a passionate **Senior Mobile Developer** and **Co-Founder** based in Bangkok
 ## 🛠️ Core Skills & Technologies
 
 ### **🎯 Primary Expertise**
+
 <div align="center">
 
 | Category | Technologies |
@@ -41,17 +42,19 @@ I'm a passionate **Senior Mobile Developer** and **Co-Founder** based in Bangkok
 </div>
 
 ### **🔧 Flutter Ecosystem**
+
 <div align="center">
 
 | Library | Purpose |
 |---------|---------|
-| ![AutoRoute](resources/image/skill-autoroute.png)| Navigation 
-| ![Riverpod](resources/image/skill-riverpod.png) | State Management | 
+| ![AutoRoute](resources/image/skill-autoroute.png)| Navigation
+| ![Riverpod](resources/image/skill-riverpod.png) | State Management |
 | ![Freezed](resources/image/skill-freezed.png) | Code Generation |
 
 </div>
 
 ### **⚡ Supporting Technologies**
+
 <div align="center">
 
 | Technology | Use Case |
@@ -76,6 +79,7 @@ I'm a passionate **Senior Mobile Developer** and **Co-Founder** based in Bangkok
 ## 📈 Professional Experience Timeline
 
 ### **🚀 Current Era (2022 - Present)**
+
 <div align="center">
 
 | Year | Company | Role | Key Technologies |
@@ -87,6 +91,7 @@ I'm a passionate **Senior Mobile Developer** and **Co-Founder** based in Bangkok
 </div>
 
 ### **💼 Growth Era (2018 - 2022)**
+
 <div align="center">
 
 | Year | Company | Role | Key Technologies |
@@ -97,6 +102,7 @@ I'm a passionate **Senior Mobile Developer** and **Co-Founder** based in Bangkok
 </div>
 
 ### **🎯 Foundation Era (2012 - 2018)**
+
 <div align="center">
 
 | Year | Company | Role | Key Technologies |
@@ -114,6 +120,7 @@ I'm a passionate **Senior Mobile Developer** and **Co-Founder** based in Bangkok
 - **Senior Mobile Developer** at major automotive company (Tri Petch IT)
 - **Full-Stack Expertise** from mobile to backend development
 - **Open Source Contributor** to prominent Flutter and TON projects
+
 ## 💰 Cryptocurrency Wallets
 
 <div align="center">
@@ -121,7 +128,6 @@ I'm a passionate **Senior Mobile Developer** and **Co-Founder** based in Bangkok
 | Cryptocurrency | Address | Wallet Name |
 |----------------|---------|-------------|
 | **Bitcoin (BTC)** | `bc1q20rqz33am2ggeugahm4543jtpesh05tw8ws5p3` | Bitcoin Wallet |
-| **TON** | `UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI` | b2nkuu-wallet.ton |
 
 </div>
 
@@ -131,7 +137,6 @@ I'm a passionate **Senior Mobile Developer** and **Co-Founder** based in Bangkok
   <img src="https://github-readme-stats.vercel.app/api?username=b2nkuu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=b2nkuu&theme=radical&hide_border=true" alt="GitHub Streak">
 </div>
-
 
 ## 🎯 What I'm Currently Working On
 
