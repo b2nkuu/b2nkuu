@@ -25,16 +25,16 @@ about:
       shields-icon: 'github'
       color: '666699'
       link: "https://github.com/b2nkuu"
-    linkedin:
-      name: 'LinkedIn'
-      shields-icon: 'linkedin'
-      color: '0072b1'
-      link: "https://www.linkedin.com/in/b2nkuu"
     email:
       name: 'Email'
       shields-icon: 'gmail'
       color: '643b9f'
       link: "mailto:ban.kuu@yahoo.com"
+    linkedin:
+      name: 'LinkedIn'
+      shields-icon: 'linkedin'
+      color: '0072b1'
+      link: "https://www.linkedin.com/in/b2nkuu"
 skill:
   golang:
     name: "Golang"
