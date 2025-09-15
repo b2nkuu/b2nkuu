@@ -36,8 +36,8 @@ I'm a passionate **Senior Mobile Developer** and **Co-Founder** based in Bangkok
 
 | Category | Technologies |
 |----------|-------------|
-| **Mobile Development** | ![Flutter](resources/image/skill-flutter.png)![Dart](resources/image/skill-dart.png) ![Riverpod](resources/image/skill-riverpod.png)|
-| **Backend Development** | ![Golang](resources/image/skill-golang.png) ![Gofiber](resources/image/skill-gofiber.png)![Echo](resources/image/skill-echo.png) |
+| **Mobile Development** | ![Flutter](resource/image/skill-flutter.png)![Dart](resource/image/skill-dart.png) ![Riverpod](resource/image/skill-riverpod.png)|
+| **Backend Development** | ![Golang](resource/image/skill-golang.png) ![Gofiber](resource/image/skill-gofiber.png)![Echo](resource/image/skill-echo.png) |
 
 </div>
 
@@ -47,9 +47,9 @@ I'm a passionate **Senior Mobile Developer** and **Co-Founder** based in Bangkok
 
 | Library | Purpose |
 |---------|---------|
-| ![AutoRoute](resources/image/skill-autoroute.png)| Navigation
-| ![Riverpod](resources/image/skill-riverpod.png) | State Management |
-| ![Freezed](resources/image/skill-freezed.png) | Code Generation |
+| ![AutoRoute](resource/image/skill-autoroute.png)| Navigation
+| ![Riverpod](resource/image/skill-riverpod.png) | State Management |
+| ![Freezed](resource/image/skill-freezed.png) | Code Generation |
 
 </div>
 
@@ -59,9 +59,9 @@ I'm a passionate **Senior Mobile Developer** and **Co-Founder** based in Bangkok
 
 | Technology | Use Case |
 |------------|---------|
-| ![Firebase](resources/image/skill-firebase.png) | Backend-as-a-Service |
-| ![gRPC](resources/image/skill-grpc.png) | High-performance APIs |
-| ![ReactiveX](resources/image/skill-reactivex.png)  | Reactive Programming |
+| ![Firebase](resource/image/skill-firebase.png) | Backend-as-a-Service |
+| ![gRPC](resource/image/skill-grpc.png) | High-performance APIs |
+| ![ReactiveX](resource/image/skill-reactivex.png)  | Reactive Programming |
 
 </div>
 
@@ -71,8 +71,8 @@ I'm a passionate **Senior Mobile Developer** and **Co-Founder** based in Bangkok
 
 | Project | Role | Description |
 |---------|------|-------------|
-| ![MyTonWallet](resources/image/contributor-mytonwallet.png) | **Contributor** | TON blockchain wallet development |
-| ![FlutterGen](resources/image/contributor-fluttergen.png) | **Contributor** | Flutter asset code generation |
+| ![MyTonWallet](resource/image/contributor-mytonwallet.png) | **Contributor** | TON blockchain wallet development |
+| ![FlutterGen](resource/image/contributor-fluttergen.png) | **Contributor** | Flutter asset code generation |
 
 </div>
 
