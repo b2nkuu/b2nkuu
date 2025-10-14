@@ -128,6 +128,7 @@ I'm a passionate **Senior Mobile Developer** and **Co-Founder** based in Bangkok
 | Cryptocurrency | Address | Wallet Name |
 |----------------|---------|-------------|
 | **Bitcoin (BTC)** | `bc1q20rqz33am2ggeugahm4543jtpesh05tw8ws5p3` | Bitcoin Wallet |
+| **TON (TON)** | `UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI (b2nkuu-wallet.ton)` | TON Wallet |
 
 </div>
 
