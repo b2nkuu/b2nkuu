@@ -1,223 +1,205 @@
-# Hey there! 👋 I'm B2NKUU
-
-<div align="center">
-  <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100" alt="B2NKUU Avatar" width="100" height="100" style="border-radius: 50%; border: 3px solid #666699;">
-  
-  **Nutchaitat Tantanasuwan** | แบงคุ
-  
-  *Software Developer* 🚀
-  
-  📍 Bangkok, Thailand
-</div>
-
----
-
-## 🎯 About Me
-
-I'm a passionate **Software Developer** with over a decade of experience building scalable applications and leading development teams. Currently based in Bangkok, Thailand, I specialize in **cross-platform mobile development** and **backend systems architecture**.
-
-My journey spans from junior development roles to senior positions, co-founding ventures, and architecting complex systems. I thrive in collaborative environments and love solving challenging technical problems with elegant, maintainable solutions.
-
-**Born:** April 10, 1990 | **Experience:** 13+ Years
-
----
-
-## 📞 Get In Touch
+# 👋 Welcome to My Profile
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| [![GitHub](https://img.shields.io/badge/GitHub-666699?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b2nkuu) | [github.com/b2nkuu](https://github.com/b2nkuu) |
-| [![Gmail](https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ban.kuu@yahoo.com) | [ban.kuu@yahoo.com](mailto:ban.kuu@yahoo.com) |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b2nkuu) | [linkedin.com/in/b2nkuu](https://www.linkedin.com/in/b2nkuu) |
+![B2NKUU](https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=150)
+
+## **B2NKUU** | **แบงคุ**
+### Nutchaitat Tantanasuwan
+
+**Software Developer** | Bangkok, Thailand 🇹🇭
+
+[![GitHub](https://img.shields.io/badge/GitHub-666699?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b2nkuu)
+[![Email](https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ban.kuu@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b2nkuu)
 
 </div>
 
 ---
 
-## 💼 Professional Experience
+## 👨‍💻 About Me
 
-### 🏢 P'nB Solutions Co., Ltd.
-**Co-Founder** | 2025 ~ Present
+I'm a passionate **Software Developer** with over a decade of experience building scalable applications and leading technical teams. Based in Bangkok, Thailand, I specialize in mobile development with **Flutter** and backend systems with **Golang**. I'm driven by clean code, innovative solutions, and collaborative development practices.
 
-Building innovative solutions from the ground up with cutting-edge technology stack.
-
-**Tech Stack:**
-- Golang
-- Flutter
-- Claude Agent SDK
-
----
-
-### 🏢 Tri Petch IT Solutions Co., Ltd.
-**Senior Mobile Developer** | 2022 ~ Present
-
-Leading mobile development initiatives and architecting scalable mobile applications.
-
-**Tech Stack:**
-- Flutter with Riverpod
-- Kotlin for Native Android
-- Swift for Native iOS
-- CI/CD with Bitrise
-
----
-
-### 🏢 Duckgroup Co., Ltd.
-**Freelance ~ System Developer** | 2022 ~ 2025
-
-Designed and implemented robust backend systems and microservices architecture.
-
-**Tech Stack:**
-- Golang
-- PostgreSQL
-- Redis
-- AWS Services
-
----
-
-### 🏢 Kayena Marketing Simulations
-**Senior Mobile Developer** | 2022
-
-Developed high-performance mobile applications for marketing simulation platform.
-
-**Tech Stack:**
-- Flutter (2.X)
-- Kotlin for Native Android
-- Swift for Native iOS
-
----
-
-### 🏢 T-DEV Co., Ltd.
-**R&D Manager** | 2018 ~ 2022
-
-Led research and development team, architecting enterprise-grade systems and managing technical infrastructure.
-
-**Tech Stack:**
-- Flutter (1.x)
-- Golang
-- MQTT with VerneMQ
-- gRPC
-- PostgreSQL
-- Redis
-- AsyncQ
-- Kubernetes (Kubesphere)
-- Digital Ocean
-
----
-
-### 🏢 Bighead Creative Co., Ltd.
-**Full-Stack Developer** | 2016 ~ 2018
-
-Developed end-to-end solutions across mobile and web platforms.
-
-**Tech Stack:**
-- Java for Android
-- Swift for iOS
-- Xamarin
-- .NET Framework
-- DNN Framework
-- AngularJS (1.x)
-- MySQL
-
----
-
-### 🏢 Pinperty Co., Ltd.
-**System Developer** | 2015 ~ 2016
-
-Built scalable backend systems and mobile applications for real estate platform.
-
-**Tech Stack:**
-- CodeIgniter
-- MariaDB
-- SphinxSearch
-- jQuery
-- Swift for iOS
-- Digital Ocean
-- Jenkins
-
----
-
-### 🏢 UIH Co., Ltd.
-**Junior Developer** | 2014 ~ 2015
-
-Started professional journey building enterprise applications.
-
-**Tech Stack:**
-- .NET Framework
-- SQL Server
-- Java for Android
-
----
-
-### 🏢 Nysiis Solutions Co., Ltd.
-**Junior Developer** | 2012 ~ 2014
-
-Early career foundation in full-stack development.
-
-**Tech Stack:**
-- .NET Framework
-- SQL Server
+Currently, I'm a **Senior Mobile Developer** at Tri Petch IT Solutions and **Co-Founder** at P'nB Solutions, where I'm building next-generation applications with cutting-edge technologies.
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 🐹 Golang
-Experienced in building high-performance backend systems and microservices.
+Proficient in building robust backend services and microservices architectures.
 
 | Framework | Repository |
 |-----------|------------|
 | **Gofiber** | [github.com/gofiber/fiber](https://github.com/gofiber/fiber) |
 | **Echo** | [github.com/labstack/echo](https://github.com/labstack/echo) |
 
-### 🎨 Dart
-Proficient in cross-platform mobile development with modern state management.
+### 🎯 Dart & Flutter
+Expert in cross-platform mobile development with modern state management and architecture patterns.
 
-| Framework | Repository |
-|-----------|------------|
+| Library | Repository |
+|---------|------------|
 | **Flutter** | [github.com/flutter](https://github.com/flutter) |
 | **Auto Route** | [github.com/Milad-Akarie/auto_route_library](https://github.com/Milad-Akarie/auto_route_library) |
 | **Riverpod** | [github.com/rrousselgit/riverpod](https://github.com/rrousselgit/riverpod) |
 | **Freezed** | [github.com/rrousselGit/freezed](https://github.com/rrousselGit/freezed) |
 
 ### 🔧 Other Technologies
-Complementary tools and platforms that enhance development capabilities.
 
 | Technology | Repository |
-|-----------|------------|
+|------------|------------|
 | **Google Firebase** | [github.com/firebase](https://github.com/firebase) |
 | **gRPC** | [github.com/grpc/grpc](https://github.com/grpc/grpc) |
 | **ReactiveX** | [github.com/ReactiveX](https://github.com/ReactiveX) |
 
 ---
 
-## 💰 Support & Donations
+## 💼 Professional Experience
 
-If you'd like to support my work, feel free to send crypto donations:
+### 🏢 Tri Petch IT Solutions Co., Ltd.
+**Senior Mobile Developer** | 2022 – Present
 
-### Bitcoin (BTC)
+[Visit Company](https://www.tripetchgroup.com/en/tripetchitsolutions)
+
+- 📱 Flutter with Riverpod state management
+- 🤖 Kotlin for Native Android development
+- 🍎 Swift for Native iOS development
+- 🔄 CI/CD pipelines with Bitrise
+
+---
+
+### 🚀 P'nB Solutions Co., Ltd.
+**Co-Founder** | 2025 – Present
+
+[Visit Company](https://pnb.solutions)
+
+- 🐹 Golang backend development
+- 📱 Flutter cross-platform applications
+- 🤖 Claude Agent SDK integration
+- 🌟 Building innovative AI-powered solutions
+
+---
+
+### 🦆 Duckgroup Co., Ltd.
+**Freelance → System Developer** | 2022 – 2025
+
+[Visit Company](https://www.duckgroup.co)
+
+- 🐹 Golang microservices architecture
+- 🗄️ PostgreSQL database design and optimization
+- ⚡ Redis caching and real-time systems
+- ☁️ AWS Services (EC2, S3, Lambda, RDS)
+
+---
+
+### 🎮 Kayena Marketing Simulations
+**Senior Mobile Developer** | 2022
+
+[Visit Company](https://kayena-simulations.io)
+
+- 📱 Flutter 2.X development
+- 🤖 Kotlin for Native Android
+- 🍎 Swift for Native iOS
+- 🎯 Marketing simulation applications
+
+---
+
+### 🏭 T-DEV Co., Ltd.
+**R&D Manager** | 2018 – 2022
+
+[Visit Company](https://t-dev.co)
+
+- 📱 Flutter (1.x) mobile framework
+- 🐹 Golang backend systems
+- 📡 MQTT with VerneMQ
+- 🔌 gRPC microservices
+- 🗄️ PostgreSQL & Redis infrastructure
+- 📦 AsyncQ message queuing
+- 🐳 Kubernetes (Kubesphere) orchestration
+- ☁️ Digital Ocean cloud platform
+
+---
+
+### 🎨 Bighead Creative Co., Ltd.
+**Full-Stack Developer** | 2016 – 2018
+
+[Visit Company](https://bighead-creative.com)
+
+- 🤖 Java for Android development
+- 🍎 Swift for iOS development
+- 💻 Xamarin cross-platform framework
+- 🔧 .NET Framework backend
+- 🌐 DNN Framework CMS
+- 📊 AngularJS (1.x) frontend
+- 🗄️ MySQL database
+
+---
+
+### 🏠 Pinperty Co., Ltd.
+**System Developer** | 2015 – 2016
+
+[Visit Company](https://pinperty.com)
+
+- 🐘 CodeIgniter PHP framework
+- 🗄️ MariaDB database
+- 🔍 SphinxSearch integration
+- 💻 jQuery frontend development
+- 🍎 Swift for iOS
+- ☁️ Digital Ocean deployment
+- 🔄 Jenkins CI/CD
+
+---
+
+### 💼 UIH Co., Ltd.
+**Junior Developer** | 2014 – 2015
+
+[Visit Company](http://uih.co.th)
+
+- 🔧 .NET Framework development
+- 🗄️ SQL Server database
+- 🤖 Java for Android
+
+---
+
+### 🎯 Nysiis Solutions Co., Ltd.
+**Junior Developer** | 2012 – 2014
+
+[Visit Company](http://nysiissolutions.com)
+
+- 🔧 .NET Framework development
+- 🗄️ SQL Server database
+
+---
+
+## 💰 Cryptocurrency Wallets
+
+### ₿ Bitcoin (BTC)
 ```
 bc1q20rqz33am2ggeugahm4543jtpesh05tw8ws5p3
 ```
 
-### The Open Network (TON)
+### 💎 The Open Network (TON)
 ```
 UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI
 ```
 
 ---
 
-## 🌟 Let's Connect!
+## 📞 Get In Touch
 
-I'm always interested in discussing new projects, collaborating on exciting ideas, or exploring innovative solutions. Feel free to reach out through any of the channels above.
+I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out!
 
-**Let's build something amazing together!** 🚀
+| Channel | Link |
+|---------|------|
+| **GitHub** | [github.com/b2nkuu](https://github.com/b2nkuu) |
+| **Email** | [ban.kuu@yahoo.com](mailto:ban.kuu@yahoo.com) |
+| **LinkedIn** | [linkedin.com/in/b2nkuu](https://www.linkedin.com/in/b2nkuu) |
 
 ---
 
 <div align="center">
 
-**Generated by Claude Agentic at 2025-11-04**
+**Born:** April 10, 1990 | **Location:** Bangkok, Thailand 🇹🇭
 
-</div>
+*Last Updated: 2025-10-26*
