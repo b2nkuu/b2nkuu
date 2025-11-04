@@ -1,14 +1,24 @@
-# <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100" width="80" height="80" align="left" style="border-radius: 50%; margin-right: 20px;"> B2NKUU
+# Hey there! 👋 I'm B2NKUU
 
-**Software Developer** | Bangkok, Thailand
+<div align="center">
+  <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100" alt="B2NKUU Avatar" width="100" height="100" style="border-radius: 50%; border: 3px solid #666699;">
+  
+  **Nutchaitat Tantanasuwan** | แบงคุ
+  
+  *Software Developer* 🚀
+  
+  📍 Bangkok, Thailand
+</div>
 
 ---
 
-## 👋 About Me
+## 🎯 About Me
 
-Hello! I'm **Nutchaitat Tantanasuwan** (นัชไทย ตั้นตนสวรรค์), a passionate and experienced **Software Developer** based in Bangkok, Thailand. With over a decade of professional experience, I specialize in building robust mobile applications and scalable backend systems. I'm currently serving as a **Senior Mobile Developer** at Tri Petch IT Solutions and co-founding **P'nB Solutions**, where I'm leveraging cutting-edge technologies to create innovative solutions.
+I'm a passionate **Software Developer** with over a decade of experience building scalable applications and leading development teams. Currently based in Bangkok, Thailand, I specialize in **cross-platform mobile development** and **backend systems architecture**.
 
-**Born:** April 10, 1990 | **Location:** 🇹🇭 Bangkok, Thailand
+My journey spans from junior development roles to senior positions, co-founding ventures, and architecting complex systems. I thrive in collaborative environments and love solving challenging technical problems with elegant, maintainable solutions.
+
+**Born:** April 10, 1990 | **Experience:** 13+ Years
 
 ---
 
@@ -16,9 +26,11 @@ Hello! I'm **Nutchaitat Tantanasuwan** (นัชไทย ตั้นตนส
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-b2nkuu-666699?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b2nkuu)
-[![Gmail](https://img.shields.io/badge/Gmail-ban.kuu@yahoo.com-643b9f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ban.kuu@yahoo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b2nkuu-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b2nkuu)
+| Platform | Link |
+|----------|------|
+| [![GitHub](https://img.shields.io/badge/GitHub-666699?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b2nkuu) | [github.com/b2nkuu](https://github.com/b2nkuu) |
+| [![Gmail](https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ban.kuu@yahoo.com) | [ban.kuu@yahoo.com](mailto:ban.kuu@yahoo.com) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b2nkuu) | [linkedin.com/in/b2nkuu](https://www.linkedin.com/in/b2nkuu) |
 
 </div>
 
@@ -26,10 +38,22 @@ Hello! I'm **Nutchaitat Tantanasuwan** (นัชไทย ตั้นตนส
 
 ## 💼 Professional Experience
 
-### 🏢 Tri Petch IT Solutions Co., Ltd.
-**Senior Mobile Developer** | 2022 — Present
+### 🏢 P'nB Solutions Co., Ltd.
+**Co-Founder** | 2025 ~ Present
 
-Leading mobile development initiatives with a focus on cross-platform solutions and native optimization.
+Building innovative solutions from the ground up with cutting-edge technology stack.
+
+**Tech Stack:**
+- Golang
+- Flutter
+- Claude Agent SDK
+
+---
+
+### 🏢 Tri Petch IT Solutions Co., Ltd.
+**Senior Mobile Developer** | 2022 ~ Present
+
+Leading mobile development initiatives and architecting scalable mobile applications.
 
 **Tech Stack:**
 - Flutter with Riverpod
@@ -39,22 +63,10 @@ Leading mobile development initiatives with a focus on cross-platform solutions 
 
 ---
 
-### 🚀 P'nB Solutions Co., Ltd.
-**Co-Founder** | 2025 — Present
+### 🏢 Duckgroup Co., Ltd.
+**Freelance ~ System Developer** | 2022 ~ 2025
 
-Building innovative software solutions with a modern tech stack, focusing on AI-powered applications and mobile-first development.
-
-**Tech Stack:**
-- Golang
-- Flutter
-- Claude Agent SDK
-
----
-
-### 🦆 Duckgroup Co., Ltd.
-**Freelance ~ System Developer** | 2022 — 2025
-
-Architected and developed backend systems and APIs for enterprise applications.
+Designed and implemented robust backend systems and microservices architecture.
 
 **Tech Stack:**
 - Golang
@@ -64,10 +76,10 @@ Architected and developed backend systems and APIs for enterprise applications.
 
 ---
 
-### 🎯 Kayena Marketing Simulations
+### 🏢 Kayena Marketing Simulations
 **Senior Mobile Developer** | 2022
 
-Developed sophisticated mobile applications for marketing simulation platform.
+Developed high-performance mobile applications for marketing simulation platform.
 
 **Tech Stack:**
 - Flutter (2.X)
@@ -76,10 +88,10 @@ Developed sophisticated mobile applications for marketing simulation platform.
 
 ---
 
-### 🔧 T-DEV Co., Ltd.
-**R&D Manager** | 2018 — 2022
+### 🏢 T-DEV Co., Ltd.
+**R&D Manager** | 2018 ~ 2022
 
-Managed research and development team, architected IoT and backend solutions, oversaw infrastructure management.
+Led research and development team, architecting enterprise-grade systems and managing technical infrastructure.
 
 **Tech Stack:**
 - Flutter (1.x)
@@ -94,10 +106,10 @@ Managed research and development team, architected IoT and backend solutions, ov
 
 ---
 
-### 🎨 Bighead Creative Co., Ltd.
-**Full-Stack Developer** | 2016 — 2018
+### 🏢 Bighead Creative Co., Ltd.
+**Full-Stack Developer** | 2016 ~ 2018
 
-Delivered end-to-end solutions across mobile and web platforms.
+Developed end-to-end solutions across mobile and web platforms.
 
 **Tech Stack:**
 - Java for Android
@@ -110,10 +122,10 @@ Delivered end-to-end solutions across mobile and web platforms.
 
 ---
 
-### 🏠 Pinperty Co., Ltd.
-**System Developer** | 2015 — 2016
+### 🏢 Pinperty Co., Ltd.
+**System Developer** | 2015 ~ 2016
 
-Developed real estate platform with advanced search capabilities.
+Built scalable backend systems and mobile applications for real estate platform.
 
 **Tech Stack:**
 - CodeIgniter
@@ -126,10 +138,10 @@ Developed real estate platform with advanced search capabilities.
 
 ---
 
-### 🏭 UIH Co., Ltd.
-**Junior Developer** | 2014 — 2015
+### 🏢 UIH Co., Ltd.
+**Junior Developer** | 2014 ~ 2015
 
-Early career development experience across multiple platforms.
+Started professional journey building enterprise applications.
 
 **Tech Stack:**
 - .NET Framework
@@ -138,10 +150,10 @@ Early career development experience across multiple platforms.
 
 ---
 
-### 💻 Nysiis Solutions Co., Ltd.
-**Junior Developer** | 2012 — 2014
+### 🏢 Nysiis Solutions Co., Ltd.
+**Junior Developer** | 2012 ~ 2014
 
-Started professional career building enterprise applications.
+Early career foundation in full-stack development.
 
 **Tech Stack:**
 - .NET Framework
@@ -152,27 +164,28 @@ Started professional career building enterprise applications.
 ## 🛠️ Technical Skills
 
 ### 🐹 Golang
-Modern backend development with performance and concurrency in mind.
+Experienced in building high-performance backend systems and microservices.
 
 | Framework | Repository |
-|-----------|-----------|
+|-----------|------------|
 | **Gofiber** | [github.com/gofiber/fiber](https://github.com/gofiber/fiber) |
 | **Echo** | [github.com/labstack/echo](https://github.com/labstack/echo) |
 
-### 🎯 Dart
-Cross-platform mobile development with exceptional performance.
+### 🎨 Dart
+Proficient in cross-platform mobile development with modern state management.
 
 | Framework | Repository |
-|-----------|-----------|
+|-----------|------------|
 | **Flutter** | [github.com/flutter](https://github.com/flutter) |
 | **Auto Route** | [github.com/Milad-Akarie/auto_route_library](https://github.com/Milad-Akarie/auto_route_library) |
 | **Riverpod** | [github.com/rrousselgit/riverpod](https://github.com/rrousselgit/riverpod) |
 | **Freezed** | [github.com/rrousselGit/freezed](https://github.com/rrousselGit/freezed) |
 
-### 🔌 Other Technologies
+### 🔧 Other Technologies
+Complementary tools and platforms that enhance development capabilities.
 
 | Technology | Repository |
-|-----------|-----------|
+|-----------|------------|
 | **Google Firebase** | [github.com/firebase](https://github.com/firebase) |
 | **gRPC** | [github.com/grpc/grpc](https://github.com/grpc/grpc) |
 | **ReactiveX** | [github.com/ReactiveX](https://github.com/ReactiveX) |
@@ -181,60 +194,30 @@ Cross-platform mobile development with exceptional performance.
 
 ## 💰 Support & Donations
 
-If you'd like to support my work, you can send cryptocurrency:
+If you'd like to support my work, feel free to send crypto donations:
 
-<div align="center">
-
-**Bitcoin (BTC)**
+### Bitcoin (BTC)
 ```
 bc1q20rqz33am2ggeugahm4543jtpesh05tw8ws5p3
 ```
 
-**The Open Network (TON)**
+### The Open Network (TON)
 ```
 UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI
 ```
 
-</div>
-
 ---
 
-## 📊 Experience Timeline
+## 🌟 Let's Connect!
 
-```
-2012-2014  │ Nysiis Solutions (Junior Developer)
-2014-2015  │ UIH (Junior Developer)
-2015-2016  │ Pinperty (System Developer)
-2016-2018  │ Bighead Creative (Full-Stack Developer)
-2018-2022  │ T-DEV (R&D Manager)
-2022       │ Kayena Marketing (Senior Mobile Developer)
-2022-2025  │ Duckgroup (Freelance ~ System Developer)
-2022-Now   │ Tri Petch IT Solutions (Senior Mobile Developer)
-2025-Now   │ P'nB Solutions (Co-Founder)
-```
+I'm always interested in discussing new projects, collaborating on exciting ideas, or exploring innovative solutions. Feel free to reach out through any of the channels above.
 
----
-
-## 🎓 Expertise Highlights
-
-✨ **Mobile Development** — 8+ years of cross-platform and native development  
-✨ **Backend Architecture** — Scalable systems with Golang, microservices, and cloud infrastructure  
-✨ **Team Leadership** — R&D management and mentoring developers  
-✨ **DevOps & Infrastructure** — Kubernetes, Docker, AWS, Digital Ocean  
-✨ **Real-time Communication** — gRPC, MQTT, WebSockets  
-✨ **Database Design** — PostgreSQL, MySQL, Redis optimization  
-
----
-
-## 🌟 What I'm Looking For
-
-- 🤝 Collaboration on innovative projects
-- 📚 Knowledge sharing and community contribution
-- 🚀 Opportunities to work with cutting-edge technologies
-- 💡 Challenges that push technical boundaries
+**Let's build something amazing together!** 🚀
 
 ---
 
 <div align="center">
 
-**Let's build something amazing together!**
+**Generated by Claude Agentic at 2025-11-04**
+
+</div>
