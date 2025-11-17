@@ -2,67 +2,51 @@
 
 <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100" alt="B2NKUU" width="100" height="100" style="border-radius: 50%;" />
 
-# 👋 Hello, I'm B2NKUU (แบงคุ)
+# B2NKUU (แบงคุ)
 
 ### Nutchaitat Tantanasuwan
 
-**💻 Software Developer** • 📍 Bangkok, Thailand
+**Software Developer** 🚀
 
-[![GitHub](https://img.shields.io/badge/GitHub-b2nkuu-666699?style=flat-square&logo=github&logoColor=white)](https://github.com/b2nkuu)
-[![Email](https://img.shields.io/badge/Email-ban.kuu@yahoo.com-643b9f?style=flat-square&logo=gmail&logoColor=white)](mailto:ban.kuu@yahoo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b2nkuu-0072b1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b2nkuu)
+📍 Bangkok, Thailand | 🎂 April 10, 1990
+
+[![Github](https://img.shields.io/badge/-Github-666699?style=flat-square&logo=github&logoColor=white)](https://github.com/b2nkuu)
+[![Email](https://img.shields.io/badge/-Email-643b9f?style=flat-square&logo=gmail&logoColor=white)](mailto:ban.kuu@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b2nkuu)
 
 ---
 
 </div>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-Passionate Software Developer with over a decade of experience building robust, scalable applications across mobile and backend ecosystems. Currently serving as **Senior Mobile Developer** at Tri Petch IT Solutions and **Co-Founder** at P'nB Solutions, where I leverage cutting-edge technologies to create innovative solutions.
+Passionate Software Developer with over a decade of experience building scalable systems and beautiful mobile applications. I specialize in modern mobile development with Flutter and backend systems with Golang, constantly exploring cutting-edge technologies to deliver exceptional user experiences.
 
-My journey spans from junior developer roles to R&D management, encompassing full-stack development, mobile applications, and cloud infrastructure. I thrive on solving complex technical challenges and transforming ideas into production-ready systems.
-
----
-
-## 🛠️ Technical Expertise
+## 🛠️ Technical Skills
 
 ### **Golang**
-Building high-performance backend services with modern Go frameworks
-
-| Technology | Description |
-|------------|-------------|
-| 🌐 [**Gofiber**](https://github.com/gofiber/fiber) | Express-inspired web framework for blazing-fast APIs |
-| 🎯 [**Echo**](https://github.com/labstack/echo) | High performance, minimalist Go web framework |
+- **Frameworks & Libraries**
+  - [Gofiber](https://github.com/gofiber/fiber) - Express-inspired web framework
+  - [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 
 ### **Dart**
-Crafting beautiful, natively compiled applications for mobile, web, and desktop
-
-| Technology | Description |
-|------------|-------------|
-| 📱 [**Flutter**](https://github.com/flutter) | Google's UI toolkit for building beautiful, natively compiled applications |
-| 🗺️ [**Auto Route**](https://github.com/Milad-Akarie/auto_route_library) | Code generation based router for Flutter |
-| 🔄 [**Riverpod**](https://github.com/rrousselgit/riverpod) | Compile-safe, testable state management solution |
-| ❄️ [**Freezed**](https://github.com/rrousselGit/freezed) | Code generation for immutable classes and unions |
+- **Mobile Development**
+  - [Flutter](https://github.com/flutter) - Cross-platform mobile framework
+  - [Auto Route](https://github.com/Milad-Akarie/auto_route_library) - Advanced routing solution
+  - [Riverpod](https://github.com/rrousselgit/riverpod) - State management
+  - [Freezed](https://github.com/rrousselGit/freezed) - Code generation for immutable classes
 
 ### **Other Technologies**
-Leveraging industry-standard tools and platforms
-
-| Technology | Description |
-|------------|-------------|
-| 🔥 [**Google Firebase**](https://github.com/firebase) | Comprehensive app development platform |
-| 🔌 [**gRPC**](https://github.com/grpc/grpc) | High-performance RPC framework |
-| 🌊 [**ReactiveX**](https://github.com/ReactiveX) | Reactive programming with observable streams |
-
----
+- [Google Firebase](https://github.com/firebase) - Backend-as-a-Service platform
+- [gRPC](https://github.com/grpc/grpc) - High-performance RPC framework
+- [ReactiveX](https://github.com/ReactiveX) - Reactive programming library
 
 ## 💼 Professional Experience
 
-### 🏢 **Tri Petch IT Solutions Co., Ltd.**
-**Senior Mobile Developer** • *2022 - Present*
+### 🏢 [Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions)
+**Senior Mobile Developer** | *2022 ~ Present*
 
-[🔗 tripetchgroup.com](https://www.tripetchgroup.com/en/tripetchitsolutions)
-
-Leading mobile development initiatives with a focus on cross-platform excellence and native optimization.
+Leading mobile development initiatives with modern Flutter architecture and native platform integrations.
 
 **Tech Stack:**
 - Flutter with Riverpod
@@ -72,12 +56,10 @@ Leading mobile development initiatives with a focus on cross-platform excellence
 
 ---
 
-### 🚀 **P'nB Solutions Co., Ltd.**
-**Co-Founder** • *2025 - Present*
+### 🚀 [P'nB Solutions Co., Ltd.](https://pnb.solutions)
+**Co-Founder** | *2025 ~ Present*
 
-[🔗 pnb.solutions](https://pnb.solutions)
-
-Building innovative solutions at the intersection of modern development practices and AI-powered tooling.
+Building innovative solutions leveraging cutting-edge AI and modern development frameworks.
 
 **Tech Stack:**
 - Golang
@@ -86,12 +68,10 @@ Building innovative solutions at the intersection of modern development practice
 
 ---
 
-### 🦆 **Duckgroup Co., Ltd.**
-**Freelance ~ System Developer** • *2022 - 2025*
+### 🦆 [Duckgroup Co., Ltd.](https://www.duckgroup.co)
+**Freelance ~ System Developer** | *2022 ~ 2025*
 
-[🔗 duckgroup.co](https://www.duckgroup.co)
-
-Architected and deployed scalable backend systems with cloud-native infrastructure.
+Architecting and implementing scalable backend systems with modern cloud infrastructure.
 
 **Tech Stack:**
 - Golang
@@ -101,12 +81,10 @@ Architected and deployed scalable backend systems with cloud-native infrastructu
 
 ---
 
-### 🎮 **Kayena Marketing Simulations**
-**Senior Mobile Developer** • *2022 - 2022*
+### 🎯 [Kayena Marketing Simulations](https://kayena-simulations.io)
+**Senior Mobile Developer** | *2022*
 
-[🔗 kayena-simulations.io](https://kayena-simulations.io)
-
-Developed sophisticated mobile applications with native platform integrations.
+Developed sophisticated mobile applications with native platform optimizations.
 
 **Tech Stack:**
 - Flutter (2.X)
@@ -115,12 +93,10 @@ Developed sophisticated mobile applications with native platform integrations.
 
 ---
 
-### 🔬 **T-DEV Co., Ltd.**
-**R&D Manager** • *2018 - 2022*
+### 🔧 [T-DEV Co., Ltd.](https://t-dev.co)
+**R&D Manager** | *2018 ~ 2022*
 
-[🔗 t-dev.co](https://t-dev.co)
-
-Led research and development initiatives, architecting microservices infrastructure and IoT solutions.
+Led research and development initiatives, managing complex distributed systems and IoT platforms.
 
 **Tech Stack:**
 - Flutter (1.x)
@@ -135,12 +111,10 @@ Led research and development initiatives, architecting microservices infrastruct
 
 ---
 
-### 🎨 **Bighead Creative Co., Ltd.**
-**Full-Stack Developer** • *2016 - 2018*
+### 🎨 [Bighead Creative Co., Ltd.](https://bighead-creative.com)
+**Full-Stack Developer** | *2016 ~ 2018*
 
-[🔗 bighead-creative.com](https://bighead-creative.com)
-
-Delivered end-to-end solutions spanning mobile apps, web applications, and enterprise systems.
+Delivered comprehensive full-stack solutions across mobile and web platforms.
 
 **Tech Stack:**
 - Java for Android
@@ -153,12 +127,10 @@ Delivered end-to-end solutions spanning mobile apps, web applications, and enter
 
 ---
 
-### 🏠 **Pinperty Co., Ltd.**
-**System Developer** • *2015 - 2016*
+### 🏠 [Pinperty Co., Ltd.](https://pinperty.com)
+**System Developer** | *2015 ~ 2016*
 
-[🔗 pinperty.com](https://pinperty.com)
-
-Built real estate platform with advanced search capabilities and mobile applications.
+Built robust property management systems with advanced search capabilities.
 
 **Tech Stack:**
 - CodeIgniter
@@ -171,12 +143,10 @@ Built real estate platform with advanced search capabilities and mobile applicat
 
 ---
 
-### 💡 **UIH Co., Ltd.**
-**Junior Developer** • *2014 - 2015*
+### 💻 [UIH Co., Ltd.](http://uih.co.th)
+**Junior Developer** | *2014 ~ 2015*
 
-[🔗 uih.co.th](http://uih.co.th)
-
-Developed enterprise applications and mobile solutions on Microsoft technology stack.
+Developed enterprise applications with Microsoft technology stack.
 
 **Tech Stack:**
 - .NET Framework
@@ -185,12 +155,10 @@ Developed enterprise applications and mobile solutions on Microsoft technology s
 
 ---
 
-### 🌟 **Nysiis Solutions Co., Ltd.**
-**Junior Developer** • *2012 - 2014*
+### 🌱 [Nysiis Solutions Co., Ltd.](http://nysiissolutions.com)
+**Junior Developer** | *2012 ~ 2014*
 
-[🔗 nysiissolutions.com](http://nysiissolutions.com)
-
-Started professional journey building business applications on .NET platform.
+Started professional journey building enterprise solutions with .NET ecosystem.
 
 **Tech Stack:**
 - .NET Framework
@@ -198,27 +166,31 @@ Started professional journey building business applications on .NET platform.
 
 ---
 
-## 💰 Cryptocurrency Wallets
+## 💰 Crypto Wallet
 
-Support my open-source contributions or collaborate on blockchain projects:
+Supporting decentralized finance and blockchain technology.
 
-### ₿ Bitcoin (BTC)
-```
-bc1q20rqz33am2ggeugahm4543jtpesh05tw8ws5p3
-```
-
-### 💎 The Open Network (TON)
-```
-UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI
-```
+| Currency | Address |
+|----------|---------|
+| **Bitcoin (BTC)** | `bc1q20rqz33am2ggeugahm4543jtpesh05tw8ws5p3` |
+| **The Open Network (TON)** | `UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI` |
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Whether you're looking to collaborate on open-source projects, need technical consultation, or just want to connect with a fellow developer, feel free to reach out!
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out through any of the channels above!
+
+[![Github](https://img.shields.io/badge/-@b2nkuu-666699?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b2nkuu)
+[![Email](https://img.shields.io/badge/-ban.kuu@yahoo.com-643b9f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ban.kuu@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/-b2nkuu-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b2nkuu)
+
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-666699?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b2nkuu)
-[![Email](https://img.shields.io/badge/Email-Get%
+**⭐ If you find my work interesting, consider starring some of my repositories!**
+
+*Generated by Claude Agentic at 2025-11-17.*
+
+</div>
