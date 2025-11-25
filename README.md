@@ -1,72 +1,70 @@
 <div align="center">
 
-<img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100" alt="B2NKUU Avatar" width="100" height="100" style="border-radius: 50%;" />
+<img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100" alt="B2NKUU" style="border-radius: 50%;" />
 
-# 👋 Hi, I'm B2NKUU (แบงคุ)
+# B2NKUU (แบงคุ)
 
 ### Nutchaitat Tantanasuwan
 
-**💼 Software Developer** • 📍 Bangkok, Thailand
+**Software Developer** • 📍 Bangkok, Thailand
 
 [![GitHub](https://img.shields.io/badge/GitHub-b2nkuu-666699?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b2nkuu)
-[![Email](https://img.shields.io/badge/Email-ban.kuu%40yahoo.com-643b9f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ban.kuu@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-ban.kuu@yahoo.com-643b9f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ban.kuu@yahoo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-b2nkuu-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b2nkuu)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate **Software Developer** based in Bangkok, Thailand, with over a decade of experience building scalable applications across mobile, backend, and full-stack domains. My journey spans from junior developer roles to senior positions and co-founding ventures, always driven by curiosity and a commitment to crafting elegant solutions.
+Passionate Software Developer with over a decade of experience crafting innovative solutions across mobile, backend, and full-stack development. Currently serving as Senior Mobile Developer at Tri Petch IT Solutions and Co-Founder at P'nB Solutions, I specialize in building scalable, high-performance applications using modern technologies like Flutter, Golang, and cloud-native architectures.
 
-I specialize in **Flutter** for cross-platform mobile development and **Golang** for high-performance backend systems. I thrive in environments where innovation meets execution, and I'm constantly exploring new technologies to stay at the forefront of software engineering.
+My journey spans from junior developer to R&D Manager, leading teams and driving technological innovation across diverse industries. I believe in clean code, continuous learning, and leveraging cutting-edge technologies to solve real-world problems.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### **Languages & Frameworks**
+### Languages & Frameworks
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🔷 Golang
-Building robust, concurrent backend systems
-
-- **[Gofiber](https://github.com/gofiber/fiber)** - Fast HTTP framework
-- **[Echo](https://github.com/labstack/echo)** - High performance web framework
+- [**Gofiber**](https://github.com/gofiber/fiber)
+- [**Echo**](https://github.com/labstack/echo)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### 🎯 Dart
-Crafting beautiful cross-platform applications
+- [**Flutter**](https://github.com/flutter)
+- [**Auto Route**](https://github.com/Milad-Akarie/auto_route_library)
+- [**Riverpod**](https://github.com/rrousselgit/riverpod)
+- [**Freezed**](https://github.com/rrousselGit/freezed)
 
-- **[Flutter](https://github.com/flutter)** - UI framework
-- **[Auto Route](https://github.com/Milad-Akarie/auto_route_library)** - Navigation
-- **[Riverpod](https://github.com/rrousselgit/riverpod)** - State management
-- **[Freezed](https://github.com/rrousselGit/freezed)** - Code generation
+</td>
+<td width="33%" valign="top">
+
+#### ⚡ Other Technologies
+- [**Google Firebase**](https://github.com/firebase)
+- [**gRPC**](https://github.com/grpc/grpc)
+- [**ReactiveX**](https://github.com/ReactiveX)
 
 </td>
 </tr>
 </table>
 
-#### 🔧 Other Technologies & Tools
-
-- **[Google Firebase](https://github.com/firebase)** - Backend as a Service
-- **[gRPC](https://github.com/grpc/grpc)** - High-performance RPC framework
-- **[ReactiveX](https://github.com/ReactiveX)** - Reactive programming
-
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 **Senior Mobile Developer** @ [Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions)
-**2022 ~ Present**
+### 🏢 [Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions)
+**Senior Mobile Developer** | *2022 ~ Present*
 
-Leading mobile development initiatives with modern Flutter architecture and native platform integrations.
+Building enterprise-grade mobile applications with modern architecture and best practices.
 
 **Tech Stack:**
 - Flutter with Riverpod
@@ -76,10 +74,10 @@ Leading mobile development initiatives with modern Flutter architecture and nati
 
 ---
 
-### 🚀 **Co-Founder** @ [P'nB Solutions Co., Ltd.](https://pnb.solutions)
-**2025 ~ Present**
+### 🚀 [P'nB Solutions Co., Ltd.](https://pnb.solutions)
+**Co-Founder** | *2025 ~ Present*
 
-Building innovative solutions leveraging cutting-edge technologies and AI-powered development tools.
+Co-founding a technology solutions company focused on innovative software development and AI integration.
 
 **Tech Stack:**
 - Golang
@@ -88,10 +86,10 @@ Building innovative solutions leveraging cutting-edge technologies and AI-powere
 
 ---
 
-### 💻 **Freelance ~ System Developer** @ [Duckgroup Co., Ltd.](https://www.duckgroup.co)
-**2022 ~ 2025**
+### 🦆 [Duckgroup Co., Ltd.](https://www.duckgroup.co)
+**Freelance ~ System Developer** | *2022 ~ 2025*
 
-Architecting and developing scalable backend systems with cloud infrastructure.
+Delivered scalable backend solutions and cloud infrastructure for diverse client projects.
 
 **Tech Stack:**
 - Golang
@@ -101,10 +99,10 @@ Architecting and developing scalable backend systems with cloud infrastructure.
 
 ---
 
-### 📱 **Senior Mobile Developer** @ [Kayena Marketing Simulations](https://kayena-simulations.io)
-**2022 ~ 2022**
+### 🎮 [Kayena Marketing Simulations](https://kayena-simulations.io)
+**Senior Mobile Developer** | *2022 ~ 2022*
 
-Developed cross-platform mobile applications with native integrations.
+Developed cross-platform mobile applications for marketing simulation platforms.
 
 **Tech Stack:**
 - Flutter (2.X)
@@ -113,10 +111,10 @@ Developed cross-platform mobile applications with native integrations.
 
 ---
 
-### 🎯 **R&D Manager** @ [T-DEV Co., Ltd.](https://t-dev.co)
-**2018 ~ 2022**
+### 🔬 [T-DEV Co., Ltd.](https://t-dev.co)
+**R&D Manager** | *2018 ~ 2022*
 
-Led research and development initiatives, managing full-stack projects with microservices architecture.
+Led research and development initiatives, managing teams and architecting complex distributed systems.
 
 **Tech Stack:**
 - Flutter (1.x)
@@ -131,10 +129,10 @@ Led research and development initiatives, managing full-stack projects with micr
 
 ---
 
-### 🌐 **Full-Stack Developer** @ [Bighead Creative Co., Ltd.](https://bighead-creative.com)
-**2016 ~ 2018**
+### 🎨 [Bighead Creative Co., Ltd.](https://bighead-creative.com)
+**Full-Stack Developer** | *2016 ~ 2018*
 
-Delivered end-to-end solutions across mobile and web platforms.
+Developed comprehensive full-stack solutions spanning mobile, web, and enterprise applications.
 
 **Tech Stack:**
 - Java for Android
@@ -147,10 +145,10 @@ Delivered end-to-end solutions across mobile and web platforms.
 
 ---
 
-### 🏠 **System Developer** @ [Pinperty Co., Ltd.](https://pinperty.com)
-**2015 ~ 2016**
+### 🏠 [Pinperty Co., Ltd.](https://pinperty.com)
+**System Developer** | *2015 ~ 2016*
 
-Built property management systems with search optimization and mobile applications.
+Built and maintained real estate platform systems with search optimization and mobile integration.
 
 **Tech Stack:**
 - CodeIgniter
@@ -159,14 +157,14 @@ Built property management systems with search optimization and mobile applicatio
 - jQuery
 - Swift for iOS
 - Digital Ocean
-- Jenkins
+- Jankins
 
 ---
 
-### 💼 **Junior Developer** @ [UIH Co., Ltd.](http://uih.co.th)
-**2014 ~ 2015**
+### 🏥 [UIH Co., Ltd.](http://uih.co.th)
+**Junior Developer** | *2014 ~ 2015*
 
-Developed enterprise applications with .NET technologies.
+Developed healthcare and enterprise applications using Microsoft technologies.
 
 **Tech Stack:**
 - .NET Framework
@@ -175,10 +173,10 @@ Developed enterprise applications with .NET technologies.
 
 ---
 
-### 🔰 **Junior Developer** @ [Nysiis Solutions Co., Ltd.](http://nysiissolutions.com)
-**2012 ~ 2014**
+### 💡 [Nysiis Solutions Co., Ltd.](http://nysiissolutions.com)
+**Junior Developer** | *2012 ~ 2014*
 
-Started my professional journey building Windows applications and databases.
+Started professional journey building enterprise solutions with .NET ecosystem.
 
 **Tech Stack:**
 - .NET Framework
@@ -188,7 +186,7 @@ Started my professional journey building Windows applications and databases.
 
 ## 💰 Crypto Wallets
 
-Supporting decentralized payments and blockchain technology:
+Supporting decentralized finance and blockchain technology:
 
 ### ₿ Bitcoin (BTC)
 ```
@@ -202,16 +200,38 @@ UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI
 
 ---
 
-## 📫 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out through any of the channels above!
+## 📊 GitHub Stats
 
 <div align="center">
 
-**🎂 Born:** April 10, 1990
+![B2NKUU's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b2nkuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b2nkuu&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-*Generated by Claude Agentic at 2025-11-24.*
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative projects, discussing technology trends, or exploring new opportunities. Feel free to reach out through any of the channels above!
+
+<div align="center">
+
+**💡 Open to freelance projects | 🚀 Available for consulting | 🤝 Seeking collaboration opportunities**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎂 Born on April 10, 1990
+
+*Building the future, one line of code at a time.*
+
+---
+
+<sub>Generated by Claude Agentic at 2025-11-25.</sub>
 
 </div>
