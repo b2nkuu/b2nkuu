@@ -1,28 +1,28 @@
 <div align="center">
 
-# 👋 Hi, I'm B2NKUU (แบงคุ)
+<img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100" alt="B2NKUU" style="border-radius: 50%;" />
+
+# B2NKUU (แบงคุ)
 
 ### Nutchaitat Tantanasuwan
 
-<img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100" alt="B2NKUU" width="100" height="100" style="border-radius: 50%;" />
+**💻 Software Developer** | 📍 Bangkok, Thailand
 
-**Software Developer** 📍 Bangkok, Thailand
-
-[![Github](https://img.shields.io/badge/-Github-666699?style=flat&logo=github&logoColor=white)](https://github.com/b2nkuu)
-[![Email](https://img.shields.io/badge/-Email-643b9f?style=flat&logo=gmail&logoColor=white)](mailto:ban.kuu@yahoo.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b2nkuu)
+[![GitHub](https://img.shields.io/badge/GitHub-b2nkuu-666699?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b2nkuu)
+[![Email](https://img.shields.io/badge/Email-ban.kuu@yahoo.com-643b9f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ban.kuu@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-b2nkuu-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b2nkuu)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-Passionate **Software Developer** with over a decade of experience building innovative solutions across mobile, backend, and full-stack development. Currently specializing in **Flutter** and **Golang**, with a strong focus on creating scalable, high-performance applications. Co-founder of **P'nB Solutions**, where we leverage cutting-edge technologies including Claude Agent SDK to deliver exceptional software solutions.
+Passionate Software Developer with over a decade of experience building scalable applications and leading development teams. Currently specializing in mobile development with Flutter and backend systems with Golang. Co-founder of P'nB Solutions, driving innovation in modern software solutions.
 
 🎂 **Born:** April 10, 1990  
 🌏 **Location:** Bangkok, Thailand  
-💼 **Current Role:** Software Engineer Specialist @ Bitkub Blockchain Technology
+🚀 **Focus:** Mobile Development, Backend Architecture, Cloud Infrastructure
 
 ---
 
@@ -30,74 +30,133 @@ Passionate **Software Developer** with over a decade of experience building inno
 
 ### 🏢 Current Positions
 
-| Company | Role | Duration | Technologies |
-|---------|------|----------|--------------|
-| 🔷 [**Bitkub Blockchain Technology Co., Ltd**](https://www.bitkubblockchain.com) | Software Engineer Specialist | 2025 ~ Present | Flutter, Dart |
-| 🚀 [**P'nB Solutions Co., Ltd.**](https://pnb.solutions) | Co-Founder | 2025 ~ Present | Golang, Flutter, Claude Agent SDK |
-| 🦆 [**Duckgroup Co., Ltd.**](https://www.duckgroup.co) | Freelance System Developer | 2022 ~ 2025 | Golang, PostgreSQL, Redis, AWS Services |
+<table>
+<tr>
+<td width="50%">
 
-### 📜 Career Journey
+**Software Engineer Specialist**  
+🏢 [Bitkub Blockchain Technology Co., Ltd](https://www.bitkubblockchain.com)  
+📅 2025 ~ Present
 
-<details>
-<summary><b>🔹 Tri Petch IT Solutions Co., Ltd.</b> - Senior Mobile Developer (2022 ~ 2025)</summary>
+**Tech Stack:**
+- Flutter
+- Dart
 
-**Technologies:** Flutter with Riverpod, Kotlin for Native Android, Swift for Native iOS, CI/CD with Bitrise
+</td>
+<td width="50%">
 
-Led mobile development initiatives with a focus on modern architecture patterns and continuous integration.
+**Co-Founder**  
+🏢 [P'nB Solutions Co., Ltd.](https://pnb.solutions)  
+📅 2025 ~ Present
 
-</details>
+**Tech Stack:**
+- Golang
+- Flutter
+- Claude Agent SDK
 
-<details>
-<summary><b>🔹 Kayena Marketing Simulations</b> - Senior Mobile Developer (2022)</summary>
+</td>
+</tr>
+</table>
 
-**Technologies:** Flutter (2.X), Kotlin for Native Android, Swift for Native iOS
+### 📚 Career Journey
 
-Developed sophisticated marketing simulation applications with cross-platform capabilities.
+<details open>
+<summary><b>🔽 View Full Experience Timeline</b></summary>
 
-</details>
+<br/>
 
-<details>
-<summary><b>🔹 T-DEV Co., Ltd.</b> - R&D Manager (2018 ~ 2022)</summary>
+#### 💼 Senior Mobile Developer
+**[Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions)** | 2022 ~ 2025
 
-**Technologies:** Flutter (1.x), Golang, MQTT with VerneMQ, gRPC, PostgreSQL, Redis, AsyncQ, Kubernetes (Kubesphere), Digital Ocean
+**Technologies:**
+- Flutter with Riverpod
+- Kotlin for Native Android
+- Swift for Native iOS
+- CI/CD with Bitrise
 
-Managed research and development initiatives, architecting scalable microservices and real-time communication systems.
+---
 
-</details>
+#### 🦆 Freelance ~ System Developer
+**[Duckgroup Co., Ltd.](https://www.duckgroup.co)** | 2022 ~ 2025
 
-<details>
-<summary><b>🔹 Bighead Creative Co., Ltd.</b> - Full-Stack Developer (2016 ~ 2018)</summary>
+**Technologies:**
+- Golang
+- PostgreSQL
+- Redis
+- AWS Services
 
-**Technologies:** Java for Android, Swift for iOS, Xamarin, .NET Framework, DNN Framework, AngularJS (1.x), MySQL
+---
 
-Delivered comprehensive full-stack solutions spanning mobile and web platforms.
+#### 📱 Senior Mobile Developer
+**[Kayena Marketing Simulations](https://kayena-simulations.io)** | 2022 ~ 2022
 
-</details>
+**Technologies:**
+- Flutter (2.X)
+- Kotlin for Native Android
+- Swift for Native iOS
 
-<details>
-<summary><b>🔹 Pinperty Co., Ltd.</b> - System Developer (2015 ~ 2016)</summary>
+---
 
-**Technologies:** CodeIgniter, MariaDB, SphinxSearch, jQuery, Swift for iOS, Digital Ocean, Jenkins
+#### 🔬 R&D Manager
+**[T-DEV Co., Ltd.](https://t-dev.co)** | 2018 ~ 2022
 
-Built and maintained property management systems with advanced search capabilities.
+**Technologies:**
+- Flutter (1.x)
+- Golang
+- MQTT with VerneMQ
+- gRPC
+- PostgreSQL
+- Redis
+- AsyncQ
+- Kubernetes (Kubesphere)
+- Digital Ocean
 
-</details>
+---
 
-<details>
-<summary><b>🔹 UIH Co., Ltd.</b> - Junior Developer (2014 ~ 2015)</summary>
+#### 🎨 Full-Stack Developer
+**[Bighead Creative Co., Ltd.](https://bighead-creative.com)** | 2016 ~ 2018
 
-**Technologies:** .NET Framework, SQL Server, Java for Android
+**Technologies:**
+- Java for Android
+- Swift for iOS
+- Xamarin
+- .NET Framework
+- DNN Framework
+- AngularJS (1.x)
+- MySQL
 
-Developed enterprise applications and mobile solutions in the early stages of professional career.
+---
 
-</details>
+#### 🏠 System Developer
+**[Pinperty Co., Ltd.](https://pinperty.com)** | 2015 ~ 2016
 
-<details>
-<summary><b>🔹 Nysiis Solutions Co., Ltd.</b> - Junior Developer (2012 ~ 2014)</summary>
+**Technologies:**
+- CodeIgniter
+- MariaDB
+- SphinxSearch
+- jQuery
+- Swift for iOS
+- Digital Ocean
+- Jankins
 
-**Technologies:** .NET Framework, SQL Server
+---
 
-Started professional journey building business applications on Microsoft technology stack.
+#### 👨‍💼 Junior Developer
+**[UIH Co., Ltd.](http://uih.co.th)** | 2014 ~ 2015
+
+**Technologies:**
+- .NET Framework
+- SQL Server
+- Java for Android
+
+---
+
+#### 🌱 Junior Developer
+**[Nysiis Solutions Co., Ltd.](http://nysiissolutions.com)** | 2012 ~ 2014
+
+**Technologies:**
+- .NET Framework
+- SQL Server
 
 </details>
 
@@ -105,44 +164,40 @@ Started professional journey building business applications on Microsoft technol
 
 ## 🛠️ Technical Skills
 
-### 🔵 Golang
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
+### 🔷 Golang
+**Primary Backend Language**
 
-- **[Gofiber](https://github.com/gofiber/fiber)** - Express-inspired web framework
-- **[Echo](https://github.com/labstack/echo)** - High performance, minimalist web framework
+| Framework | Repository |
+|-----------|------------|
+| [Gofiber](https://github.com/gofiber/fiber) | High-performance web framework |
+| [Echo](https://github.com/labstack/echo) | Minimalist web framework |
 
-### 🎯 Dart & Flutter
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+### 🎯 Dart
+**Mobile Development Specialist**
 
-- **[Flutter](https://github.com/flutter)** - UI toolkit for building natively compiled applications
-- **[Auto Route](https://github.com/Milad-Akarie/auto_route_library)** - Advanced routing solution
-- **[Riverpod](https://github.com/rrousselgit/riverpod)** - State management library
-- **[Freezed](https://github.com/rrousselGit/freezed)** - Code generation for immutable classes
+| Framework/Library | Repository | Purpose |
+|-------------------|------------|---------|
+| [Flutter](https://github.com/flutter) | Cross-platform UI framework |
+| [Auto Route](https://github.com/Milad-Akarie/auto_route_library) | Navigation & routing |
+| [Riverpod](https://github.com/rrousselgit/riverpod) | State management |
+| [Freezed](https://github.com/rrousselGit/freezed) | Code generation for immutable classes |
 
-### 🌐 Other Technologies
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat&logo=google&logoColor=white)
+### ⚡ Other Technologies
 
-- **[Google Firebase](https://github.com/firebase)** - Backend-as-a-Service platform
-- **[gRPC](https://github.com/grpc/grpc)** - High-performance RPC framework
-- **[ReactiveX](https://github.com/ReactiveX)** - Reactive programming library
-
-### 💻 Additional Expertise
-
-**Mobile Development:** Native Android (Kotlin/Java), Native iOS (Swift), Cross-platform (Flutter, Xamarin)
-
-**Backend Development:** Golang, .NET Framework, CodeIgniter
-
-**Databases:** PostgreSQL, MySQL, MariaDB, SQL Server, Redis
-
-**DevOps & Infrastructure:** Kubernetes, Docker, AWS Services, Digital Ocean, CI/CD (Bitrise, Jenkins)
-
-**Protocols & Architectures:** gRPC, MQTT, REST API, Microservices, Event-driven architecture
+| Technology | Repository | Expertise |
+|------------|------------|-----------|
+| [Google Firebase](https://github.com/firebase) | Backend-as-a-Service platform |
+| [gRPC](https://github.com/grpc/grpc) | High-performance RPC framework |
+| [ReactiveX](https://github.com/ReactiveX) | Reactive programming library |
 
 ---
 
-## 💰 Crypto Wallets
+## 💰 Cryptocurrency Wallets
+
+<details>
+<summary><b>🔐 View Wallet Addresses</b></summary>
+
+<br/>
 
 ### ₿ Bitcoin (BTC)
 ```
@@ -155,12 +210,31 @@ UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI
 (B2NKUU-WALLET.TON)
 ```
 
+</details>
+
 ---
 
 ## 📫 Get In Touch
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-- 💼 **LinkedIn:** [linkedin.com/in/b2nkuu](https://www.linkedin.com/in/b2nkuu)
-- 📧 **Email:** [ban.kuu@yahoo.com](mailto:ban.kuu@yahoo.com)
-- 🐙 **GitHub:** [github.com/b2nkuu](https://github
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 **LinkedIn** | [linkedin.com/in/b2nkuu](https://www.linkedin.com/in/b2nkuu) |
+| 🐙 **GitHub** | [github.com/b2nkuu](https://github.com/b2nkuu) |
+| 📧 **Email** | [ban.kuu@yahoo.com](mailto:ban.kuu@yahoo.com) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b2nkuu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=666699&icon_color=643b9f&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b2nkuu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=666699&text_color=c9d1d9)
+
