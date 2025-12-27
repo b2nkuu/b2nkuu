@@ -1,117 +1,87 @@
-<div align="center">
+<p align="center">
+  <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100" width="100" alt="B2NKUU Profile Picture" style="border-radius: 50%;">
+</p>
+<h1 align="center">Hi there! I'm B2NKUU 👋</h1>
+<p align="center">
+  A passionate <strong>Software Developer</strong> 🚀 based in 📍 Bangkok, Thailand.
+</p>
+<p align="center">
   <a href="https://github.com/b2nkuu" target="_blank">
-    <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100" width="100px;" alt="Nutchaitat Tantanasuwan Profile Picture" style="border-radius: 50%;"/>
+    <img src="https://img.shields.io/badge/GitHub-666699?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
-  <h1>Nutchaitat Tantanasuwan</h1>
-  <h2>Software Developer</h2>
-  <p>📍 Bangkok, Thailand | 🎂 April 10, 1990</p>
-  <p>
-    <a href="https://github.com/b2nkuu" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-666699?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-    </a>
-    <a href="mailto:ban.kuu@yahoo.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://www.linkedin.com/in/b2nkuu" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-    </a>
-  </p>
-</div>
+  <a href="mailto:ban.kuu@yahoo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address">
+  </a>
+  <a href="https://www.linkedin.com/in/b2nkuu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+  </a>
+</p>
 
 ---
 
-👋 Hello there! I'm **Nutchaitat Tantanasuwan**, also known as **B2NKUU** (หรือ **แบงคุ**). As a dedicated **Software Developer** based in **Bangkok, Thailand**, I'm driven by a passion for crafting efficient and impactful software solutions. My expertise spans mobile development with Flutter to robust backend systems with Golang, always striving for excellence and innovation. I enjoy tackling complex challenges and contributing to projects that make a real difference.
+## 🌟 About Me
 
----
+I'm Nutchaitat Tantanasuwan, a dedicated software developer always eager to explore new technologies and build innovative solutions. With a keen eye for detail and a passion for crafting robust applications, I thrive in dynamic environments.
+
+- **Full Name**: Nutchaitat Tantanasuwan
+- **Birthday**: 🗓️ April 10, 1990
+- **Lives In**: 📍 Bangkok, Thailand
 
 ### 💰 Support My Work
 
-If you find my work valuable and wish to support my ongoing projects, you can do so through cryptocurrency:
+If you find my work helpful or inspiring, consider supporting me!
 
-*   **Bitcoin (BTC):** `bc1q20rqz33am2ggeugahm4543jtpesh05tw8ws5p3`
-*   **TON Coin (TON):** `UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI` (B2NKUU-WALLET.TON)
-
----
-
-### 🛠️ My Toolkit & Expertise
-
-My technical arsenal includes a variety of languages, frameworks, and tools:
-
-#### 🚀 Golang
-*   **Gofiber:** A powerful and fast HTTP framework for Go, inspired by Express.js.
-    *   [GitHub](https://github.com/gofiber/fiber)
-*   **Echo:** A high-performance, minimalist Go web framework that's extensible.
-    *   [GitHub](https://github.com/labstack/echo)
-
-#### 💙 Dart
-*   **Flutter:** Google's versatile UI toolkit for building natively compiled applications across mobile, web, and desktop from a single codebase.
-    *   [GitHub](https://github.com/flutter)
-*   **Auto Route:** A declarative routing solution for Flutter, simplifying navigation.
-    *   [GitHub](https://github.com/Milad-Akarie/auto_route_library)
-*   **Riverpod:** A robust state-management and data-binding framework for Flutter, focusing on testability and type safety.
-    *   [GitHub](https://github.com/rrousselgit/riverpod)
-*   **Freezed:** A code generator for data classes and unions in Dart, enhancing immutability and boilerplate reduction.
-    *   [GitHub](https://github.com/rrousselGit/freezed)
-
-#### ✨ Other Technologies
-*   **Google Firebase:** A comprehensive suite of tools for mobile and web app development, including authentication, databases, and hosting.
-    *   [GitHub](https://github.com/firebase)
-*   **gRPC:** A modern, high-performance, open-source universal RPC framework.
-    *   [GitHub](https://github.com/grpc/grpc)
-*   **ReactiveX:** A library for composing asynchronous and event-based programs using observable sequences.
-    *   [GitHub](https://github.com/ReactiveX)
+- **Bitcoin (BTC)**: `bc1q20rqz33am2ggeugahm4543jtpesh05tw8ws5p3`
+- **TON Coin (TON)**: `UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI` (`B2NKUU-WALLET.TON`)
 
 ---
 
-### 💼 Professional Journey
+## 🛠️ My Skillset
 
-My career has been marked by diverse roles and significant contributions across various companies:
+A snapshot of the languages, frameworks, and tools I wield to bring ideas to life.
 
-*   **[P'nB Solutions Co., Ltd.](https://pnb.solutions)** <br/>
-    *   💼 Co-Founder | 📅 2025 ~ now
-    *   🛠️ **Stack:** Flutter, Golang, Claude Agent SDK
+### Golang 🚀
+- **Gofiber**: A fast, express-like web framework built on Fasthttp. [[GitHub](https://github.com/gofiber/fiber)]
+- **Echo**: High performance, minimalist Go web framework. [[GitHub](https://github.com/labstack/echo)]
 
-*   **[Bitkub Blockchain Technology Co., Ltd](https://www.bitkubblockchain.com)** <br/>
-    *   💼 Software Engineer Specialist | 📅 2025 ~ now
-    *   🛠️ **Stack:** Flutter, Dart
+### Dart 🎯
+- **Flutter**: Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. [[GitHub](https://github.com/flutter)]
+- **Auto Route**: A declarative routing solution for Flutter. [[GitHub](https://github.com/Milad-Akarie/auto_route_library)]
+- **Riverpod**: A reactive caching and data-binding framework for Flutter. [[GitHub](https://github.com/rrousselgit/riverpod)]
+- **Freezed**: Code generator for data-classes, unions, and more in Dart. [[GitHub](https://github.com/rrousselGit/freezed)]
 
-*   **[Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions)** <br/>
-    *   💼 Senior Mobile Developer | 📅 2022 ~ 2025
-    *   🛠️ **Stack:** Flutter with Riverpod, Kotlin for Native Android, Swift for Native iOS, CI/CD with Bitrise
-
-*   **[Duckgroup Co., Ltd.](https://www.duckgroup.co)** <br/>
-    *   💼 Freelance ~ System Developer | 📅 2022 ~ 2025
-    *   🛠️ **Stack:** Golang, PostgreSQL, Redis, AWS Services
-
-*   **[Kayena Marketing Simulations](https://kayena-simulations.io)** <br/>
-    *   💼 Senior Mobile Developer | 📅 2022 ~ 2022
-    *   🛠️ **Stack:** Flutter (2.X), Kotlin for Native Android, Swift for Native iOS
-
-*   **[T-DEV Co., Ltd.](https://t-dev.co)** <br/>
-    *   💼 R&D Manager | 📅 2018 ~ 2022
-    *   🛠️ **Stack:** Flutter (1.x), Golang, MQTT with VerneMQ, gRPC, PostgreSQL, Redis, AsyncQ, Kubernetes (Kubesphere), Digital Ocean
-
-*   **[Bighead Creative Co., Ltd.](https://bighead-creative.com)** <br/>
-    *   💼 Full-Stack Developer | 📅 2016 ~ 2018
-    *   🛠️ **Stack:** Java for Android, Swift for iOS, Xamarin, .NET Framework, DNN Framework, AngularJS (1.x), MySQL
-
-*   **[Pinperty Co., Ltd.](https://pinperty.com)** <br/>
-    *   💼 System Developer | 📅 2015 ~ 2016
-    *   🛠️ **Stack:** CodeIgniter, MariaDB, SphinxSearch, jQuery, Swift for iOS, Digital Ocean, Jenkins
-
-*   **[UIH Co., Ltd.](http://uih.co.th)** <br/>
-    *   💼 Junior Developer | 📅 2014 ~ 2015
-    *   🛠️ **Stack:** .NET Framework, SQL Server, Java for Android
-
-*   **[Nysiis Solutions Co., Ltd.](http://nysiissolutions.com)** <br/>
-    *   💼 Junior Developer | 📅 2012 ~ 2014
-    *   🛠️ **Stack:** .NET Framework, SQL Server
+### Other Technologies 💡
+- **Google Firebase**: A comprehensive mobile and web application development platform. [[GitHub](https://github.com/firebase)]
+- **gRPC**: A high-performance, open-source universal RPC framework. [[GitHub](https://github.com/grpc/grpc)]
+- **ReactiveX**: An API for asynchronous programming with observable streams. [[GitHub](https://github.com/ReactiveX)]
 
 ---
 
-### 🌱 Let's Connect!
+## 💼 Professional Journey
 
-I'm always open to new opportunities, exciting collaborations, and meaningful discussions. Feel free to reach out via any of my contact channels above – I'd love to hear from you!
+My career path has been a dynamic exploration of various roles and technologies, contributing to impactful projects across different industries.
+
+- **[Software Engineer Specialist](https://www.bitkubblockchain.com)** at **Bitkub Blockchain Technology Co., Ltd** | 2025 ~ now
+  - *Stack*: Flutter, Dart
+- **[Co-Founder](https://pnb.solutions)** at **P'nB Solutions Co., Ltd.** | 2025 ~ now
+  - *Stack*: Golang, Flutter, Claude Agent SDK
+- **[Freelance ~ System Developer](https://www.duckgroup.co)** at **Duckgroup Co., Ltd.** | 2022 ~ 2025
+  - *Stack*: Golang, PostgreSQL, Redis, AWS Services
+- **[Senior Mobile Developer](https://www.tripetchgroup.com/en/tripetchitsolutions)** at **Tri Petch IT Solutions Co., Ltd.** | 2022 ~ 2025
+  - *Stack*: Flutter with Riverpod, Kotlin for Native Android, Swift for Native iOS, CI/CD with Bitrise
+- **[Senior Mobile Developer](https://kayena-simulations.io)** at **Kayena Marketing Simulations** | 2022 ~ 2022
+  - *Stack*: Flutter (2.X), Kotlin for Native Android, Swift for Native iOS
+- **[R&D Manager](https://t-dev.co)** at **T-DEV Co., Ltd.** | 2018 ~ 2022
+  - *Stack*: Flutter (1.x), Golang, MQTT with VerneMQ, gRPC, PostgreSQL, Redis, AsyncQ, Kubernetes (Kubesphere), Digital Ocean
+- **[Full-Stack Developer](https://bighead-creative.com)** at **Bighead Creative Co., Ltd.** | 2016 ~ 2018
+  - *Stack*: Java for Android, Swift for iOS, Xamarin, .NET Framework, DNN Framework, AngularJS (1.x), MySQL
+- **[System Developer](https://pinperty.com)** at **Pinperty Co., Ltd.** | 2015 ~ 2016
+  - *Stack*: CodeIgniter, MariaDB, SphinxSearch, jQuery, Swift for iOS, Digital Ocean, Jankins
+- **[Junior Developer](http://uih.co.th)** at **UIH Co., Ltd.** | 2014 ~ 2015
+  - *Stack*: .NET Framework, SQL Server, Java for Android
+- **[Junior Developer](http://nysiissolutions.com)** at **Nysiis Solutions Co., Ltd.** | 2012 ~ 2014
+  - *Stack*: .NET Framework, SQL Server
 
 ---
+
 Generated by Claude Agentic at 2025-12-27.
