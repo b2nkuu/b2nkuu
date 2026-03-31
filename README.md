@@ -1,108 +1,125 @@
-<p align="center">
-  <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100" width="100" height="100" alt="B2NKUU Avatar">
-  <h1>Hi there! I'm B2NKUU 👋</h1>
-  <h3>A passionate Software Developer crafting digital experiences from Bangkok, Thailand.</h3>
-</p>
+![B2NKUU](https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100)
 
-<p align="center">
-  <a href="https://github.com/b2nkuu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-666699?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:ban.kuu@yahoo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/b2nkuu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+# 👋 Hi there, I'm B2NKUU (แบงคุ)!
+
+### A passionate Software Developer crafting digital experiences from Bangkok, Thailand 🇹🇭
+
+[![GitHub](https://img.shields.io/badge/GitHub-666699?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b2nkuu)
+[![Email](https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ban.kuu@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b2nkuu)
 
 ---
 
 ## 🚀 About Me
 
-Hello! I'm **Nutchaitat Tantanasuwan (B2NKUU)**, a dedicated Software Developer based in the vibrant city of Bangkok, Thailand. Born on April 10, 1990, I thrive on building robust, scalable, and user-friendly applications that make a real impact. My journey in software development has been a continuous exploration of new technologies and innovative solutions, always pushing the boundaries of what's possible.
+Hello! I'm **Nutchaitat Tantanasuwan**, known digitally as B2NKUU. Based in the vibrant city of **Bangkok, Thailand** 🇹🇭, I thrive on building robust and scalable software solutions that bring ideas to life. With a deep passion for development, I constantly explore new technologies and refine my craft to deliver exceptional user experiences and powerful backend systems.
 
----
+### 💰 Support My Work
 
-## 🛠️ My Digital Arsenal
-
-I love diving deep into cutting-edge technologies and frameworks. Here's a glimpse into my primary tools and passions:
-
-### 🌐 Backend & Core Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang">
-</p>
-
-*   **Golang Ecosystem:**
-    *   🚀 [Gofiber](https://github.com/gofiber/fiber) - High-performance HTTP framework.
-    *   ⚡ [Echo](https://github.com/labstack/echo) - Fast and minimalist web framework.
-
-### 📱 Mobile Development
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-</p>
-
-*   **Dart & Flutter Ecosystem:**
-    *   🎨 [Flutter](https://github.com/flutter) - Beautiful native apps from a single codebase.
-    *   🗺️ [Auto Route](https://github.com/Milad-Akarie/auto_route_library) - Type-safe routing for Flutter.
-    *   🌊 [Riverpod](https://github.com/rrousselgit/riverpod) - A reactive caching and data-binding framework for Flutter.
-    *   ❄️ [Freezed](https://github.com/rrousselGit/freezed) - Code generation for data classes.
-
-### ✨ Other Notable Technologies
-
-*   🔥 [Google Firebase](https://github.com/firebase) - Backend services for mobile and web.
-*   📡 [gRPC](https://github.com/grpc/grpc) - High-performance RPC framework.
-*   🌀 [ReactiveX](https://github.com/ReactiveX) - Reactive programming for asynchronous operations.
-
----
-
-## 💼 Professional Journey
-
-My career has been a dynamic adventure across various roles and technologies, shaping me into a versatile Software Engineer.
-
-*   **Co-Founder** at [P'nB Solutions Co., Ltd.](https://pnb.solutions)
-    *   🗓️ 2025 ~ now
-    *   🛠️ *Stack:* Golang, Flutter, Claude Agent SDK
-*   **Software Engineer Specialist** at [Bitkub Blockchain Technology Co., Ltd](https://www.bitkubblockchain.com)
-    *   🗓️ 2025 ~ now
-    *   🛠️ *Stack:* Flutter, Dart
-*   **Senior Mobile Developer** at [Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions)
-    *   🗓️ 2022 ~ 2025
-    *   🛠️ *Stack:* Flutter with Riverpod, Kotlin for Native Android, Swift for Native iOS, CI/CD with Bitrise
-*   **Freelance ~ System Developer** at [Duckgroup Co., Ltd.](https://www.duckgroup.co)
-    *   🗓️ 2022 ~ 2025
-    *   🛠️ *Stack:* Golang, PostgreSQL, Redis, AWS Services
-*   **Senior Mobile Developer** at [Kayena Marketing Simulations](https://kayena-simulations.io)
-    *   🗓️ 2022 ~ 2022
-    *   🛠️ *Stack:* Flutter (2.X), Kotlin for Native Android, Swift for Native iOS
-*   **R&D Manager** at [T-DEV Co., Ltd.](https://t-dev.co)
-    *   🗓️ 2018 ~ 2022
-    *   🛠️ *Stack:* Flutter (1.x), Golang, MQTT with VerneMQ, gRPC, PostgreSQL, Redis, AsyncQ, Kubernetes (Kubesphere), Digital Ocean
-*   **Full-Stack Developer** at [Bighead Creative Co., Ltd.](https://bighead-creative.com)
-    *   🗓️ 2016 ~ 2018
-    *   🛠️ *Stack:* Java for Android, Swift for iOS, Xamarin, .NET Framework, DNN Framework, AngularJS (1.x), MySQL
-*   **System Developer** at [Pinperty Co., Ltd.](https://pinperty.com)
-    *   🗓️ 2015 ~ 2016
-    *   🛠️ *Stack:* CodeIgniter, MariaDB, SphinxSearch, jQuery, Swift for iOS, Digital Ocean, Jankins
-*   **Junior Developer** at [UIH Co., Ltd.](http://uih.co.th)
-    *   🗓️ 2014 ~ 2015
-    *   🛠️ *Stack:* .NET Framework, SQL Server, Java for Android
-*   **Junior Developer** at [Nysiis Solutions Co., Ltd.](http://nysiissolutions.com)
-    *   🗓️ 2012 ~ 2014
-    *   🛠️ *Stack:* .NET Framework, SQL Server
-
----
-
-## 💰 Support My Journey (Crypto Wallets)
-
-If you appreciate my work and would like to support my open-source contributions or future projects, you can send a little something my way!
+If you appreciate my contributions and wish to support my ongoing projects, you can send crypto to:
 
 *   **Bitcoin (BTC):** `bc1q20rqz33am2ggeugahm4543jtpesh05tw8ws5p3`
 *   **TON Coin (TON):** `UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI` (B2NKUU-WALLET.TON)
 
 ---
 
-Generated by gemini-2.5-flash at 2026-03-30.
+## 🛠️ My Digital Toolkit
+
+I leverage a diverse set of technologies to tackle complex challenges and build innovative applications. Here's a glimpse into my primary tools and expertise:
+
+### 🐹 Golang
+
+*   **Frameworks:**
+    *   📦 [Gofiber](https://github.com/gofiber/fiber)
+    *   📦 [Echo](https://github.com/labstack/echo)
+
+### 💙 Dart
+
+*   **Frameworks & Libraries:**
+    *   🚀 [Flutter](https://github.com/flutter)
+    *   🗺️ [Auto Route](https://github.com/Milad-Akarie/auto_route_library)
+    *   💧 [Riverpod](https://github.com/rrousselgit/riverpod)
+    *   🧊 [Freezed](https://github.com/rrousselGit/freezed)
+
+### ✨ Other Technologies
+
+*   🔥 [Google Firebase](https://github.com/firebase)
+*   ⚡ [gRPC](https://github.com/grpc/grpc)
+*   🔄 [ReactiveX](https://github.com/ReactiveX)
+*   🤖 Claude Agent SDK
+*   🐘 PostgreSQL
+*   💾 Redis
+*   ☁️ AWS Services
+*   🐳 Kubernetes (Kubesphere)
+*   ⚙️ CI/CD with Bitrise
+*   ☕ Kotlin for Native Android
+*   🍎 Swift for Native iOS
+*   🌐 .NET Framework
+*   📊 SQL Server / MySQL / MariaDB
+*   🔎 SphinxSearch
+*   💡 MQTT with VerneMQ
+*   🔄 AsyncQ
+*   💻 AngularJS (1.x)
+*   🧪 Xamarin
+*   🕸️ CodeIgniter
+*   Jankins
+
+---
+
+## 💼 Professional Journey
+
+My career has been a dynamic exploration across various roles and technologies, contributing to a wide range of projects and innovations.
+
+### 🏢 [P'nB Solutions Co., Ltd.](https://pnb.solutions)
+*   **Role:** Co-Founder
+*   **Years:** 2025 ~ now
+*   **Key Technologies:** 🛠️ Golang, 🛠️ Flutter, 🛠️ Claude Agent SDK
+
+### 🏢 [Bitkub Blockchain Technology Co., Ltd](https://www.bitkubblockchain.com)
+*   **Role:** Software Engineer Specialist
+*   **Years:** 2025 ~ now
+*   **Key Technologies:** 🛠️ Flutter, 🛠️ Dart
+
+### 🏢 [Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions)
+*   **Role:** Senior Mobile Developer
+*   **Years:** 2022 ~ 2025
+*   **Key Technologies:** 🛠️ Flutter with Riverpod, 🛠️ Kotlin for Native Android, 🛠️ Swift for Native iOS, 🛠️ CI/CD with Bitrise
+
+### 🏢 [Duckgroup Co., Ltd.](https://www.duckgroup.co)
+*   **Role:** Freelance ~ System Developer
+*   **Years:** 2022 ~ 2025
+*   **Key Technologies:** 🛠️ Golang, 🛠️ PostgreSQL, 🛠️ Redis, 🛠️ AWS Services
+
+### 🏢 [Kayena Marketing Simulations](https://kayena-simulations.io)
+*   **Role:** Senior Mobile Developer
+*   **Years:** 2022 ~ 2022
+*   **Key Technologies:** 🛠️ Flutter (2.X), 🛠️ Kotlin for Native Android, 🛠️ Swift for Native iOS
+
+### 🏢 [T-DEV Co., Ltd.](https://t-dev.co)
+*   **Role:** R&D Manager
+*   **Years:** 2018 ~ 2022
+*   **Key Technologies:** 🛠️ Flutter (1.x), 🛠️ Golang, 🛠️ MQTT with VerneMQ, 🛠️ gRPC, 🛠️ PostgreSQL, 🛠️ Redis, 🛠️ AsyncQ, 🛠️ Kubernetes (Kubesphere), 🛠️ Digital Ocean
+
+### 🏢 [Bighead Creative Co., Ltd.](https://bighead-creative.com)
+*   **Role:** Full-Stack Developer
+*   **Years:** 2016 ~ 2018
+*   **Key Technologies:** 🛠️ Java for Android, 🛠️ Swift for iOS, 🛠️ Xamarin, 🛠️ .NET Framework, 🛠️ DNN Framework, 🛠️ AngularJS (1.x), 🛠️ MySQL
+
+### 🏢 [Pinperty Co., Ltd.](https://pinperty.com)
+*   **Role:** System Developer
+*   **Years:** 2015 ~ 2016
+*   **Key Technologies:** 🛠️ CodeIgniter, 🛠️ MariaDB, 🛠️ SphinxSearch, 🛠️ jQuery, 🛠️ Swift for iOS, 🛠️ Digital Ocean, 🛠️ Jankins
+
+### 🏢 [UIH Co., Ltd.](http://uih.co.th)
+*   **Role:** Junior Developer
+*   **Years:** 2014 ~ 2015
+*   **Key Technologies:** 🛠️ .NET Framework, 🛠️ SQL Server, 🛠️ Java for Android
+
+### 🏢 [Nysiis Solutions Co., Ltd.](http://nysiissolutions.com)
+*   **Role:** Junior Developer
+*   **Years:** 2012 ~ 2014
+*   **Key Technologies:** 🛠️ .NET Framework, 🛠️ SQL Server
+
+---
+
+Generated by gemini-2.5-flash at 2026-03-31.
