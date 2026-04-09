@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100" alt="B2NKUU's Avatar" width="100" height="100" style="border-radius: 50%;">
-  <h1>Hello, I'm B2NKUU (แบงคุ)! 👋</h1>
-  <h3>Nutchaitat Tantanasuwan | Software Developer 🚀</h3>
-  <p>📍 Bangkok, Thailand</p>
+  <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100" alt="B2NKUU Avatar" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+  <h1>Hello, I'm B2NKUU! 👋</h1>
+  <p><strong>Nutchaitat Tantanasuwan</strong> | A passionate Software Developer crafting digital experiences from the heart of Bangkok, Thailand.</p>
+  <p>Born on April 10, 1990 — constantly learning, always building. ✨</p>
 
   <p>
     <a href="https://github.com/b2nkuu" target="_blank">
@@ -19,90 +19,110 @@
 
 ---
 
-### About Me ✨
-As a dedicated Software Developer based in the vibrant tech hub of Bangkok, Thailand, I thrive on crafting robust and innovative solutions. With a passion for clean code and scalable architectures, I specialize in bringing ideas to life across various platforms, from mobile applications to intricate backend systems. My journey is fueled by continuous learning and a drive to contribute to impactful projects.
+## 🚀 My Digital Craftsmanship
+
+As a dedicated Software Developer, I thrive on transforming complex ideas into elegant, high-performance solutions. My journey has been a continuous exploration of cutting-edge technologies, with a focus on building robust backend systems and intuitive mobile applications. I believe in clean code, scalable architectures, and the power of collaboration to deliver impactful digital experiences.
 
 ---
 
-### My Toolkit 🛠️
+## 🛠️ My Toolkit & Expertise
 
-Here are some of the technologies and frameworks I wield to build digital experiences:
+Here's a glimpse into the technologies and frameworks I wield to bring ideas to life:
 
-#### **Golang** 🐹
-A powerful and efficient language for building high-performance backend services.
-*   **Gofiber**: A fast, expressive, and zero-allocation HTTP framework for Go.
-    *   [GitHub](https://github.com/gofiber/fiber)
-*   **Echo**: High performance, minimalist Go web framework.
-    *   [GitHub](https://github.com/labstack/echo)
+### 🌐 Golang - The Powerhouse Backend
 
-#### **Dart** 🎯
-The versatile language powering beautiful, natively compiled applications.
-*   **Flutter**: Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
-    *   [GitHub](https://github.com/flutter)
-*   **Auto Route**: A declarative routing solution for Flutter.
-    *   [GitHub](https://github.com/Milad-Akarie/auto_route_library)
-*   **Riverpod**: A reactive caching and data-binding framework for Flutter.
-    *   [GitHub](https://github.com/rrousselgit/riverpod)
-*   **Freezed**: Code generation for data-classes/unions/pattern-matching/cloning.
-    *   [GitHub](https://github.com/rrousselGit/freezed)
+*   **Core Language:** Golang
+*   **Key Frameworks:**
+    *   [Gofiber](https://github.com/gofiber/fiber) - An Express.js inspired web framework built on Fasthttp for high performance.
+    *   [Echo](https://github.com/labstack/echo) - A high-performance, minimalist Go web framework.
 
-#### **Other Technologies** 🌟
-Diverse tools and platforms that enhance my development workflow.
-*   **Google Firebase**: A comprehensive mobile and web application development platform.
-    *   [GitHub](https://github.com/firebase)
-*   **gRPC**: A high-performance, open-source universal RPC framework.
-    *   [GitHub](https://github.com/grpc/grpc)
-*   **ReactiveX**: An API for asynchronous programming with observable streams.
-    *   [GitHub](https://github.com/ReactiveX)
+### 📱 Dart & Flutter - Crafting Beautiful Mobile Experiences
 
----
+*   **Core Language:** Dart
+*   **Key Frameworks & Libraries:**
+    *   [Flutter](https://github.com/flutter) - Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+    *   [Auto Route](https://github.com/Milad-Akarie/auto_route_library) - A declarative routing solution for Flutter.
+    *   [Riverpod](https://github.com/rrousselgit/riverpod) - A reactive caching and data-binding framework for Flutter.
+    *   [Freezed](https://github.com/rrousselGit/freezed) - Code generation for unions/pattern-matching, data classes, and more.
 
-### Professional Journey 💼
+### ✨ Other Core Technologies & Tools
 
-My career has been a dynamic exploration of various roles and technologies, contributing to diverse and challenging projects.
-
-*   **Co-Founder** @ [P'nB Solutions Co., Ltd.](https://pnb.solutions)
-    *   _2025 ~ now_
-    *   **Stack**: Flutter, Golang, Claude Agent SDK
-*   **Software Engineer Specialist** @ [Bitkub Blockchain Technology Co., Ltd](https://www.bitkubblockchain.com)
-    *   _2025 ~ now_
-    *   **Stack**: Flutter, Dart
-*   **Senior Mobile Developer** @ [Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions)
-    *   _2022 ~ 2025_
-    *   **Stack**: Flutter with Riverpod, Kotlin for Native Android, Swift for Native iOS, CI/CD with Bitrise
-*   **Freelance ~ System Developer** @ [Duckgroup Co., Ltd.](https://www.duckgroup.co)
-    *   _2022 ~ 2025_
-    *   **Stack**: Golang, PostgreSQL, Redis, AWS Services
-*   **Senior Mobile Developer** @ [Kayena Marketing Simulations](https://kayena-simulations.io)
-    *   _2022 ~ 2022_
-    *   **Stack**: Flutter (2.X), Kotlin for Native Android, Swift for Native iOS
-*   **R&D Manager** @ [T-DEV Co., Ltd.](https://t-dev.co)
-    *   _2018 ~ 2022_
-    *   **Stack**: Flutter (1.x), Golang, MQTT with VerneMQ, gRPC, PostgreSQL, Redis, AsyncQ, Kubernetes (Kubesphere), Digital Ocean
-*   **Full-Stack Developer** @ [Bighead Creative Co., Ltd.](https://bighead-creative.com)
-    *   _2016 ~ 2018_
-    *   **Stack**: Java for Android, Swift for iOS, Xamarin, .NET Framework, DNN Framework, AngularJS (1.x), MySQL
-*   **System Developer** @ [Pinperty Co., Ltd.](https://pinperty.com)
-    *   _2015 ~ 2016_
-    *   **Stack**: CodeIgniter, MariaDB, SphinxSearch, jQuery, Swift for iOS, Digital Ocean, Jenkins
-*   **Junior Developer** @ [UIH Co., Ltd.](http://uih.co.th)
-    *   _2014 ~ 2015_
-    *   **Stack**: .NET Framework, SQL Server, Java for Android
-*   **Junior Developer** @ [Nysiis Solutions Co., Ltd.](http://nysiissolutions.com)
-    *   _2012 ~ 2014_
-    *   **Stack**: .NET Framework, SQL Server
+*   **Platforms & Services:**
+    *   [Google Firebase](https://github.com/firebase) - A comprehensive mobile and web development platform.
+    *   [gRPC](https://github.com/grpc/grpc) - A high-performance, open-source universal RPC framework.
+    *   [ReactiveX](https://github.com/ReactiveX) - An API for asynchronous programming with observable streams.
+*   **Databases:** PostgreSQL, Redis, MySQL, MariaDB, SQL Server
+*   **Cloud & DevOps:** AWS Services, Kubernetes (Kubesphere), Digital Ocean, CI/CD with Bitrise, Jankins
+*   **Backend Frameworks:** CodeIgniter, .NET Framework, DNN Framework
+*   **Mobile Native:** Kotlin for Native Android, Swift for Native iOS, Java for Android, Xamarin
+*   **Frontend:** AngularJS (1.x), jQuery
+*   **Search & Queues:** SphinxSearch, AsyncQ, MQTT with VerneMQ
+*   **AI/ML:** Claude Agent SDK
 
 ---
 
-### Support My Work 💰
+## 💼 Professional Journey & Milestones
 
-If you appreciate my contributions or wish to support my ongoing projects, you can send crypto to the addresses below:
+My career has been a dynamic landscape of innovation and growth, working with diverse teams to deliver impactful solutions. I'm always eager to take on new challenges and contribute to cutting-edge projects.
 
-*   **Bitcoin (BTC)**: `bc1q20rqz33am2ggeugahm4543jtpesh05tw8ws5p3`
-*   **TON Coin (TON)**: `UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI (B2NKUU-WALLET.TON)`
+<details>
+  <summary>Click to expand my full experience timeline!</summary>
+
+*   **2025 ~ now** | 🏢 [Bitkub Blockchain Technology Co., Ltd](https://www.bitkubblockchain.com)
+    *   💼 **Software Engineer Specialist**
+    *   💡 **Stack:** Flutter, Dart
+
+*   **2025 ~ now** | 🏢 [P'nB Solutions Co., Ltd.](https://pnb.solutions)
+    *   💼 **Co-Founder**
+    *   💡 **Stack:** Golang, Flutter, Claude Agent SDK
+
+*   **2022 ~ 2025** | 🏢 [Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions)
+    *   💼 **Senior Mobile Developer**
+    *   💡 **Stack:** Flutter with Riverpod, Kotlin for Native Android, Swift for Native iOS, CI/CD with Bitrise
+
+*   **2022 ~ 2025** | 🏢 [Duckgroup Co., Ltd.](https://www.duckgroup.co)
+    *   💼 **Freelance ~ System Developer**
+    *   💡 **Stack:** Golang, PostgreSQL, Redis, AWS Services
+
+*   **2022 ~ 2022** | 🏢 [Kayena Marketing Simulations](https://kayena-simulations.io)
+    *   💼 **Senior Mobile Developer**
+    *   💡 **Stack:** Flutter (2.X), Kotlin for Native Android, Swift for Native iOS
+
+*   **2018 ~ 2022** | 🏢 [T-DEV Co., Ltd.](https://t-dev.co)
+    *   💼 **R&D Manager**
+    *   💡 **Stack:** Flutter (1.x), Golang, MQTT with VerneMQ, gRPC, PostgreSQL, Redis, AsyncQ, Kubernetes (Kubesphere), Digital Ocean
+
+*   **2016 ~ 2018** | 🏢 [Bighead Creative Co., Ltd.](https://bighead-creative.com)
+    *   💼 **Full-Stack Developer**
+    *   💡 **Stack:** Java for Android, Swift for iOS, Xamarin, .NET Framework, DNN Framework, AngularJS (1.x), MySQL
+
+*   **2015 ~ 2016** | 🏢 [Pinperty Co., Ltd.](https://pinperty.com)
+    *   💼 **System Developer**
+    *   💡 **Stack:** CodeIgniter, MariaDB, SphinxSearch, jQuery, Swift for iOS, Digital Ocean, Jankins
+
+*   **2014 ~ 2015** | 🏢 [UIH Co., Ltd.](http://uih.co.th)
+    *   💼 **Junior Developer**
+    *   💡 **Stack:** .NET Framework, SQL Server, Java for Android
+
+*   **2012 ~ 2014** | 🏢 [Nysiis Solutions Co., Ltd.](http://nysiissolutions.com)
+    *   💼 **Junior Developer**
+    *   💡 **Stack:** .NET Framework, SQL Server
+</details>
 
 ---
 
-Let's connect and build something amazing together! Feel free to reach out for collaborations or just to chat about tech.
+## 💰 Support My Work
 
-Generated by gemini-2.5-flash at 2026-04-08.
+Your support helps fuel my passion for building innovative solutions and contributing to the open-source community!
+
+*   **Bitcoin (BTC):** `bc1q20rqz33am2ggeugahm4543jtpesh05tw8ws5p3`
+*   **TON Coin (TON):** `UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI` (B2NKUU-WALLET.TON)
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to new collaborations, exciting projects, or just a friendly chat about technology. Feel free to reach out through any of the channels above. Let's build something amazing together!
+
+---
+Generated by gemini-2.5-flash at 2026-04-09.
