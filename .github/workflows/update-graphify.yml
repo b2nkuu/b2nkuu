@@ -1,0 +1,45 @@
+name: Update Graphify Knowledge Graph
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-graph:
+    # Skip if the commit was made by this workflow itself (prevents infinite loop)
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install graphify
+        run: pip install graphifyy openai
+
+      - name: Run graphify extract
+        env:
+          MOONSHOT_API_KEY: ${{ secrets.MOONSHOT_TOKEN }}
+        run: graphify extract . --backend kimi
+
+      - name: Commit graph changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add graphify-out/
+          if git diff --staged --quiet; then
+            echo "No changes to graphify-out/ — skipping commit"
+          else
+            git commit -m "chore: auto-update graphify knowledge graph [skip ci]"
+            git push
+          fi
