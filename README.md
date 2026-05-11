@@ -1,62 +1,52 @@
-<div align="center">
-  <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=200" width="120" alt="Nutchaitat Tantanasuwan" />
-  
-  <h1>✨ B2NKUU <sub><sup>แบงคุ</sup></sub></h1>
-  <h3>Nutchaitat Tantanasuwan</h3>
-  
-  <p>
-    <strong>Software Developer</strong> · Bangkok, Thailand 🌏
-  </p>
+<!-- Profile Version: 2025-10-26 -->
 
-  <p>
-    <a href="https://github.com/b2nkuu"><img src="https://img.shields.io/badge/GitHub-666699?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
-    <a href="mailto:ban.kuu@yahoo.com"><img src="https://img.shields.io/badge/Email-643b9f?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/b2nkuu"><img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-  </p>
-</div>
+<p align="center">
+  <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=200" width="120" alt="B2NKUU Avatar" />
+</p>
+
+<h1 align="center">B2NKUU</h1>
+<h3 align="center">Nutchaitat Tantanasuwan · แบงคุ</h3>
+
+<p align="center">
+  <strong>Software Developer</strong><br>
+  📍 Bangkok, Thailand · 🎂 April 10, 1990
+</p>
+
+<p align="center">
+  <a href="https://github.com/b2nkuu"><img src="https://img.shields.io/badge/GitHub-666699?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:ban.kuu@yahoo.com"><img src="https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/b2nkuu"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
-## 🧬 The Story
+## 🎯 Current Focus
 
-<div align="center">
+I currently serve as a **Software Engineer Specialist** at **[Bitkub Blockchain Technology](https://www.bitkubblockchain.com)**, building high-performance mobile experiences with **Flutter** and **Dart**. In parallel, I co-founded **[P'nB Solutions](https://pnb.solutions)** to architect the next wave of systems powered by **Golang**, **Flutter**, and the **Claude Agent SDK**.
 
-🎂 *April 10, 1990* · 🌏 *Bangkok, Thailand*
+---
 
-</div>
+## 🛠️ Tech Arsenal
 
-From the energetic streets of Bangkok, I architect digital ecosystems where pixel-perfect mobile experiences meet bulletproof backend infrastructure. My evolution spans over a decade — starting as a Junior Developer mastering .NET and SQL Server, maturing into an R&D Manager orchestrating IoT architectures with MQTT, gRPC, and Kubernetes, and now operating at full throttle: shipping production-grade Flutter apps at **Bitkub Blockchain Technology** while co-founding **P'nB Solutions** to push the boundaries of AI-integrated systems.
+### Languages & Frameworks
 
-I specialize in **Flutter** ecosystems and **Golang** microservices, with battle-tested expertise across iOS, Android, and cloud-native platforms. Whether it's leading engineering teams, designing scalable architectures, or writing elegant code — I bring craft and conviction to every commit.
+| Language | Libraries & Frameworks |
+|:---|:---|
+| **Golang** | [Gofiber](https://github.com/gofiber/fiber) · [Echo](https://github.com/labstack/echo) |
+| **Dart** | [Flutter](https://github.com/flutter) · [Riverpod](https://github.com/rrousselgit/riverpod) · [Auto Route](https://github.com/Milad-Akarie/auto_route_library) · [Freezed](https://github.com/rrousselGit/freezed) |
 
-> *"I don't just write code. I compose solutions."*
+### Platforms & Tools
 
-## ⚡ Tech Arsenal
+[Google Firebase](https://github.com/firebase) · [gRPC](https://github.com/grpc/grpc) · [ReactiveX](https://github.com/ReactiveX)
 
-My toolbox is intentionally curated — deep expertise over scattered familiarity.
+---
 
-| 🐹 Golang Ecosystem | 💙 Dart / Flutter Ecosystem | 🌐 Infrastructure & Tools |
-|:---|:---|:---|
-| [Gofiber](https://github.com/gofiber/fiber) | [Flutter](https://github.com/flutter) | [Google Firebase](https://github.com/firebase) |
-| [Echo](https://github.com/labstack/echo) | [Riverpod](https://github.com/rrousselgit/riverpod) | [gRPC](https://github.com/grpc/grpc) |
-| | [Auto Route](https://github.com/Milad-Akarie/auto_route_library) | [ReactiveX](https://github.com/ReactiveX) |
-| | [Freezed](https://github.com/rrousselGit/freezed) | |
+## 💼 Professional Journey
 
-## 🏆 Career Chronicle
-
-*Parallel paths define my journey — I've never believed in doing just one thing at a time.*
-
-### 🚀 Active Engagements
-
-| 🏢 Organization | 💼 Role | 🛠️ Stack |
-|:---|:---|:---|
-| [Bitkub Blockchain Technology Co., Ltd](https://www.bitkubblockchain.com) | Software Engineer Specialist | Flutter · Dart |
-| [P'nB Solutions Co., Ltd.](https://pnb.solutions) | Co-Founder | Golang · Flutter · Claude Agent SDK |
-
-### 🔥 Previous Chapters
-
-| 🏢 Organization | 💼 Role | 📅 Duration | 🛠️ Stack |
+| 🏢 Company | 💼 Role | 📅 Period | 🛠️ Stack |
 |:---|:---|:---|:---|
+| [Bitkub Blockchain Technology Co., Ltd](https://www.bitkubblockchain.com) | Software Engineer Specialist | 2025 ~ now | Flutter<br>Dart |
+| [P'nB Solutions Co., Ltd.](https://pnb.solutions) | Co-Founder | 2025 ~ now | Golang<br>Flutter<br>Claude Agent SDK |
 | [Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions) | Senior Mobile Developer | 2022 ~ 2025 | Flutter with Riverpod<br>Kotlin for Native Android<br>Swift for Native iOS<br>CI/CD with Bitrise |
 | [Duckgroup Co., Ltd.](https://www.duckgroup.co) | Freelance ~ System Developer | 2022 ~ 2025 | Golang<br>PostgreSQL<br>Redis<br>AWS Services |
 | [Kayena Marketing Simulations](https://kayena-simulations.io) | Senior Mobile Developer | 2022 ~ 2022 | Flutter (2.X)<br>Kotlin for Native Android<br>Swift for Native iOS |
@@ -66,29 +56,27 @@ My toolbox is intentionally curated — deep expertise over scattered familiarit
 | [UIH Co., Ltd.](http://uih.co.th) | Junior Developer | 2014 ~ 2015 | .NET Framework<br>SQL Server<br>Java for Android |
 | [Nysiis Solutions Co., Ltd.](http://nysiissolutions.com) | Junior Developer | 2012 ~ 2014 | .NET Framework<br>SQL Server |
 
-## 💰 Digital Wallets
+---
 
-If you're feeling generous or just crypto-curious:
+## 💎 Crypto Wallets
 
-| ₿ Bitcoin (BTC) | TON Coin (TON) |
+| 💰 Currency | Address |
 |:---|:---|
-| `bc1q20rqz33am2ggeugahm4543jtpesh05tw8ws5p3` | `UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI` |
-| | `B2NKUU-WALLET.TON` |
-
-## 🤝 Let's Build Together
-
-Whether you're recruiting top-tier Flutter & Golang talent, seeking a technical co-founder, or exploring blockchain-AI convergence — I'm always open to meaningful conversations.
-
-<div align="center">
-  <a href="https://github.com/b2nkuu"><img src="https://img.shields.io/badge/GitHub-666699?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
-  <a href="mailto:ban.kuu@yahoo.com"><img src="https://img.shields.io/badge/Email-643b9f?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/b2nkuu"><img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-</div>
-
-<div align="right">
-  <sub>profile version 2025-10-26</sub>
-</div>
+| **Bitcoin (BTC)** | `bc1q20rqz33am2ggeugahm4543jtpesh05tw8ws5p3` |
+| **TON Coin (TON)** | `UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI (B2NKUU-WALLET.TON)` |
 
 ---
 
-*Generated by kimi-k2.6 at 2026-05-10.*
+## 🤝 Let's Connect
+
+Whether you're looking to collaborate on a Flutter application, architect a Golang backend, or explore blockchain-integrated solutions, I'm always open to meaningful conversations.
+
+<p align="center">
+  <a href="https://github.com/b2nkuu"><img src="https://img.shields.io/badge/GitHub-666699?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:ban.kuu@yahoo.com"><img src="https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/b2nkuu"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+---
+
+<p align="center">Generated by kimi-k2.6 at 2026-05-11.</p>
