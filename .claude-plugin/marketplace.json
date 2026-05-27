@@ -1,0 +1,17 @@
+{
+    "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+    "name": "b2nkuu",
+    "description": "<todo>",
+    "owner": {
+        "name": "Nutchaitat Tantanasuwan"
+    },
+    "plugins": [
+        {
+            "name": "mindset-spirit",
+            "description": "<todo>",
+            "source": "./plugins/mindset-spirit",
+            "url": "https://github.com/b2nkuu/mindset-spirit",
+            "category": "productivity"
+        }
+    ]
+}
