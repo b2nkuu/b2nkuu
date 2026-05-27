@@ -1,94 +1,108 @@
 <p align="center">
-  <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100" width="100" height="100" style="border-radius: 50%;" alt="B2NKUU Profile Picture"/>
+  <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=200" width="130" style="border-radius: 50%; border: 3px solid #643b9f;" alt="Avatar of B2NKUU" />
 </p>
 
-<h1 align="center">Hi there, I'm <strong>B2NKUU</strong> 👋</h1>
-
-<h3 align="center">
-  <em>Nutchaitat Tantanasuwan</em> (แบงคุ) · <strong>Software Developer</strong>
-</h3>
+<h1 align="center">B2NKUU</h1>
+<p align="center"><strong>แบงคุ · Nutchaitat Tantanasuwan</strong></p>
+<p align="center"><em>Software Developer · Bangkok, Thailand</em></p>
 
 <p align="center">
-  <a href="https://github.com/b2nkuu"><img src="https://img.shields.io/badge/Github-666699?style=flat-square&logo=github&logoColor=white" alt="Github"/></a>
-  <a href="mailto:ban.kuu@yahoo.com"><img src="https://img.shields.io/badge/Email-643b9f?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/b2nkuu"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/b2nkuu"><img src="https://img.shields.io/badge/GitHub-666699?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:ban.kuu@yahoo.com"><img src="https://img.shields.io/badge/Email-643b9f?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/b2nkuu"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Bitcoin-bc1q20rqz...8ws5p3-F7931A?style=flat-square&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
-  <img src="https://img.shields.io/badge/TON-UQA_grhV...F4UI-0088CC?style=flat-square&logo=ton&logoColor=white" alt="TON"/>
-</p>
-
-<p align="center">📍 Bangkok, Thailand 🌏</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About
 
-I am a passionate Software Developer with a strong track record in building scalable mobile applications and robust backend systems. With over a decade of hands-on experience, I specialize in crafting high-performance solutions using modern technologies like **Flutter**, **Golang**, and **Dart**. My journey spans from full-stack development and R&D management to co-founding innovative startups. I thrive on solving complex problems, architecting clean code, and leading teams to deliver exceptional digital products.
+Born on **April 10, 1990**, I am **Nutchaitat Tantanasuwan** — though the digital world knows me as **B2NKUU** (แบงคุ). Based in the vibrant pulse of **Bangkok, Thailand**, I architect scalable backends and craft fluid, cross-platform mobile experiences. My craft lives at the intersection of **Golang** performance and **Flutter** elegance — building systems that don't just run, but resonate.
 
 ---
 
-## 🛠️ Technical Arsenal
+## 💎 Crypto Wallets
 
-### Languages & Frameworks
+| Coin | Address |
+| :--- | :--- |
+| **Bitcoin** `BTC` | `bc1q20rqz33am2ggeugahm4543jtpesh05tw8ws5p3` |
+| **TON Coin** `TON` | `UQA-grhVRr_NRl9jTDNjXsTk2rycQOVtbz8je-dY_M1_F4UI (B2NKUU-WALLET.TON)` |
 
-| Language | Ecosystem & Libraries |
+---
+
+## 🛠️ Tech Arsenal
+
+From concurrent microservices to pixel-perfect interfaces, my toolkit is curated for impact and engineered for scale.
+
+| Domain | Technologies |
 | :--- | :--- |
 | **Golang** | [Gofiber](https://github.com/gofiber/fiber) · [Echo](https://github.com/labstack/echo) |
 | **Dart** | [Flutter](https://github.com/flutter) · [Auto Route](https://github.com/Milad-Akarie/auto_route_library) · [Riverpod](https://github.com/rrousselgit/riverpod) · [Freezed](https://github.com/rrousselGit/freezed) |
-
-### Tools & Platforms
-
-| Category | Technologies |
-| :--- | :--- |
-| **Cloud & DevOps** | Google Firebase · gRPC · Digital Ocean · AWS Services · Kubernetes (Kubesphere) · CI/CD (Bitrise) |
-| **Data & Messaging** | PostgreSQL · Redis · MQTT with VerneMQ · AsyncQ · gRPC |
-| **Frontend & Legacy** | AngularJS (1.x) · jQuery · .NET Framework · DNN Framework · Xamarin |
-| **Native Mobile** | Kotlin (Android) · Swift (iOS) · Java (Android) |
+| **Other** | [Google Firebase](https://github.com/firebase) · [gRPC](https://github.com/grpc/grpc) · [ReactiveX](https://github.com/ReactiveX) |
 
 ---
 
 ## 💼 Professional Journey
 
-I have had the privilege of working across diverse industries, from blockchain technology and marketing simulations to creative agencies and IT solutions. My career reflects a continuous evolution from a Junior Developer mastering foundational technologies to a Specialist and Co-Founder architecting cutting-edge systems.
+A decade-long evolution from junior developer to specialist engineer, system architect, and co-founder.
 
-### 🏢 Career Timeline
+### 🏢 Bitkub Blockchain Technology Co., Ltd
+**Software Engineer Specialist** · `2025 ~ now`  
+🔗 [bitkubblockchain.com](https://www.bitkubblockchain.com)  
+`Flutter` `Dart`
 
-| Period | Company | Role | Tech Stack |
-| :--- | :--- | :--- | :--- |
-| **2025 ~ now** | [Bitkub Blockchain Technology Co., Ltd](https://www.bitkubblockchain.com) | Software Engineer Specialist | Flutter, Dart |
-| **2022 ~ 2025** | [Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions) | Senior Mobile Developer | Flutter with Riverpod, Kotlin (Android), Swift (iOS), CI/CD with Bitrise |
-| **2025 ~ now** | [P'nB Solutions Co., Ltd.](https://pnb.solutions) | Co-Founder | Golang, Flutter, Claude Agent SDK |
-| **2022 ~ 2025** | [Duckgroup Co., Ltd.](https://www.duckgroup.co) | Freelance ~ System Developer | Golang, PostgreSQL, Redis, AWS Services |
-| **2022 ~ 2022** | [Kayena Marketing Simulations](https://kayena-simulations.io) | Senior Mobile Developer | Flutter (2.X), Kotlin (Android), Swift (iOS) |
-| **2018 ~ 2022** | [T-DEV Co., Ltd.](https://t-dev.co) | R&D Manager | Flutter (1.x), Golang, MQTT with VerneMQ, gRPC, PostgreSQL, Redis, AsyncQ, Kubernetes (Kubesphere), Digital Ocean |
-| **2016 ~ 2018** | [Bighead Creative Co., Ltd.](https://bighead-creative.com) | Full-Stack Developer | Java (Android), Swift (iOS), Xamarin, .NET Framework, DNN Framework, AngularJS (1.x), MySQL |
-| **2015 ~ 2016** | [Pinperty Co., Ltd.](https://pinperty.com) | System Developer | CodeIgniter, MariaDB, SphinxSearch, jQuery, Swift (iOS), Digital Ocean, Jankins |
-| **2014 ~ 2015** | [UIH Co., Ltd.](http://uih.co.th) | Junior Developer | .NET Framework, SQL Server, Java (Android) |
-| **2012 ~ 2014** | [Nysiis Solutions Co., Ltd.](http://nysiissolutions.com) | Junior Developer | .NET Framework, SQL Server |
+### 🚀 P'nB Solutions Co., Ltd.
+**Co-Founder** · `2025 ~ now`  
+🔗 [pnb.solutions](https://pnb.solutions)  
+`Golang` `Flutter` `Claude Agent SDK`
+
+### 🏢 Tri Petch IT Solutions Co., Ltd.
+**Senior Mobile Developer** · `2022 ~ 2025`  
+🔗 [tripetchgroup.com](https://www.tripetchgroup.com/en/tripetchitsolutions)  
+`Flutter with Riverpod` `Kotlin for Native Android` `Swift for Native iOS` `CI/CD with Bitrise`
+
+### 🦆 Duckgroup Co., Ltd.
+**Freelance ~ System Developer** · `2022 ~ 2025`  
+🔗 [duckgroup.co](https://www.duckgroup.co)  
+`Golang` `PostgreSQL` `Redis` `AWS Services`
+
+### 🎮 Kayena Marketing Simulations
+**Senior Mobile Developer** · `2022 ~ 2022`  
+🔗 [kayena-simulations.io](https://kayena-simulations.io)  
+`Flutter (2.X)` `Kotlin for Native Android` `Swift for Native iOS`
+
+### 🔬 T-DEV Co., Ltd.
+**R&D Manager** · `2018 ~ 2022`  
+🔗 [t-dev.co](https://t-dev.co)  
+`Flutter (1.x)` `Golang` `MQTT with VerneMQ` `gRPC` `PostgreSQL` `Redis` `AsyncQ` `Kubernetes (Kubesphere)` `Digital Ocean`
+
+### 🎨 Bighead Creative Co., Ltd.
+**Full-Stack Developer** · `2016 ~ 2018`  
+🔗 [bighead-creative.com](https://bighead-creative.com)  
+`Java for Android` `Swift for iOS` `Xamarin` `.NET Framework` `DNN Framework` `AngularJS (1.x)` `MySQL`
+
+### 📍 Pinperty Co., Ltd.
+**System Developer** · `2015 ~ 2016`  
+🔗 [pinperty.com](https://pinperty.com)  
+`CodeIgniter` `MariaDB` `SphinxSearch` `jQuery` `Swift for iOS` `Digital Ocean` `Jankins`
+
+### 🌐 UIH Co., Ltd.
+**Junior Developer** · `2014 ~ 2015`  
+🔗 [uih.co.th](http://uih.co.th)  
+`.NET Framework` `SQL Server` `Java for Android`
+
+### 💡 Nysiis Solutions Co., Ltd.
+**Junior Developer** · `2012 ~ 2014`  
+🔗 [nysiissolutions.com](http://nysiissolutions.com)  
+`.NET Framework` `SQL Server`
 
 ---
 
-## 🌟 Key Highlights
+## 🤝 Let's Connect
 
-*   **Blockchain Pioneer**: Currently building the future of digital finance at Bitkub, leveraging Flutter to create seamless blockchain experiences.
-*   **Startup Founder**: Co-founded P'nB Solutions, driving innovation with Golang and AI-powered agent SDKs.
-*   **Mobile Architect**: Deep expertise in cross-platform and native mobile development, from Flutter's early 1.x days to the latest Riverpod state management.
-*   **Backend Specialist**: Proven experience in designing microservices, high-throughput APIs (Gofiber, Echo, gRPC), and real-time messaging systems.
+Whether you're exploring blockchain collaborations, seeking a technical partner, or simply want to exchange ideas on **Flutter**, **Golang**, and the future of digital products — my door is always open.
 
----
-
-## 📫 Let's Connect
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
-
-<p align="center">
-  <a href="https://github.com/b2nkuu"><img src="https://img.shields.io/badge/Github-666699?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
-  <a href="mailto:ban.kuu@yahoo.com"><img src="https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/b2nkuu"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+Drop me a line at [ban.kuu@yahoo.com](mailto:ban.kuu@yahoo.com) or connect on [LinkedIn](https://www.linkedin.com/in/b2nkuu).
 
 ---
 
-<p align="center"><em>Generated by kimi-k2.6 at 2026-05-27.</em></p>
+<p align="center"><i>Generated by kimi-k2.6 at 2026-05-27.</i></p>
