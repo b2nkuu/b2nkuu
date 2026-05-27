@@ -1,14 +1,14 @@
 {
     "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
     "name": "b2nkuu",
-    "description": "<todo>",
+    "description": "Claude Code plugins and skills by B2NKUU (Nutchaitat Tantanasuwan)",
     "owner": {
         "name": "Nutchaitat Tantanasuwan"
     },
     "plugins": [
         {
             "name": "mindset-spirit",
-            "description": "<todo>",
+            "description": "Japanese-philosophy mindset skills for software development — Ikigai, Kaizen, Shokunin, Wabi-Sabi, Gaman, Kanso",
             "source": "./plugins/mindset-spirit",
             "url": "https://github.com/b2nkuu/mindset-spirit",
             "category": "productivity"
