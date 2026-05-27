@@ -1,3 +1,3 @@
-[submodule "plugins/mindset-spirit"]
-	path = plugins/mindset-spirit
-	url = https://github.com/b2nkuu/mindset-spirit
+[submodule "plugins/spirit-mindset"]
+	path = plugins/spirit-mindset
+	url = https://github.com/b2nkuu/spirit-mindset
