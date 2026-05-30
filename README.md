@@ -1,190 +1,110 @@
-<!-- ----------------------------------------------------------------------- -->
-<!--  B2NKUU / Nutchaitat Tantanasuwan — GitHub Profile README               -->
-<!--  A living résumé, a digital home, and an open invitation to collaborate. -->
-<!-- ----------------------------------------------------------------------- -->
+<div align="center">
+  <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=200" width="130" alt="Nutchaitat Tantanasuwan" />
+  
+  # B2NKUU · แบงคุ
+  
+  **Nutchaitat Tantanasuwan**
+  
+  ### 👨‍💻 Software Developer
+  
+  📍 Bangkok, Thailand &nbsp;·&nbsp; 🎂 April 10, 1990
+  
+  <br>
+  
+  [![Github](https://img.shields.io/badge/-Github-666699?logo=github&logoColor=white&style=for-the-badge)](https://github.com/b2nkuu)
+  [![Email](https://img.shields.io/badge/-Email-643b9f?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ban.kuu@yahoo.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/b2nkuu)
+</div>
 
-<p align="center">
-  <a href="https://github.com/b2nkuu">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=B2NKUU&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Mobile%20%26%20Backend%20Craftsman&descAlignY=55&descAlign=50" alt="B2NKUU Header Banner" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/b2nkuu">
-    <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=180" width="180" height="180" style="border-radius: 50%;" alt="B2NKUU Avatar" />
-  </a>
-</p>
-
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" alt="Waving Hand" /> 
-  Hey, I'm <strong>B2NKUU</strong> 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" width="25" alt="Sparkles" />
-</h1>
-
-<p align="center">
-  <em>Software Developer</em> · <strong>แบงคุ</strong> · Bangkok, Thailand
-</p>
-
-<p align="center">
-  <a href="https://github.com/b2nkuu">
-    <img src="https://img.shields.io/badge/GitHub-666699?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:ban.kuu@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/b2nkuu">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<br>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="28" alt="Telescope" /> About Me
+## ⚡ Tech Constellation
 
-I’m **Nutchaitat Tantanasuwan** — also known as **B2NKUU** (แบงคุ). A **Software Developer** based in the vibrant heart of **Bangkok, Thailand**, I’ve spent over a decade building things that live on screens, servers, and everywhere in between.
+### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square)
 
-My journey began in the trenches of **.NET** and **SQL Server**, evolved through native **Android** and **iOS** development, and found its rhythm in **cross-platform mobile** and **high-performance backend** systems. Today, I architect solutions with **Flutter** and **Golang**, blending pixel-perfect interfaces with resilient, scalable infrastructure.
+### Mobile & Client
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)](https://github.com/flutter)
+[![Auto Route](https://img.shields.io/badge/Auto_Route-121212?logo=flutter&logoColor=white&style=flat-square)](https://github.com/Milad-Akarie/auto_route_library)
+[![Riverpod](https://img.shields.io/badge/Riverpod-2B2B2B?logo=flutter&logoColor=white&style=flat-square)](https://github.com/rrousselgit/riverpod)
+[![Freezed](https://img.shields.io/badge/Freezed-2B2B2B?logo=flutter&logoColor=white&style=flat-square)](https://github.com/rrousselGit/freezed)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white&style=flat-square)
 
-I believe great software is a dialogue between user and machine — intuitive, fast, and quietly powerful.
+### Backend & Systems
+[![Gofiber](https://img.shields.io/badge/Gofiber-00ACD7?logo=go&logoColor=white&style=flat-square)](https://github.com/gofiber/fiber)
+[![Echo](https://img.shields.io/badge/Echo-00ADD8?logo=go&logoColor=white&style=flat-square)](https://github.com/labstack/echo)
+[![gRPC](https://img.shields.io/badge/gRPC-244c5a?logo=grpc&logoColor=white&style=flat-square)](https://github.com/grpc/grpc)
+[![ReactiveX](https://img.shields.io/badge/ReactiveX-B7178C?logo=reactivex&logoColor=white&style=flat-square)](https://github.com/ReactiveX)
+![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white&style=flat-square)
+![AsyncQ](https://img.shields.io/badge/AsyncQ-2B2B2B?style=flat-square)
 
----
+### Data Stores
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
+![SphinxSearch](https://img.shields.io/badge/SphinxSearch-2B2B2B?style=flat-square)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/ID%20Card.png" width="28" alt="ID Card" /> Quick Facts
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?logo=digitalocean&logoColor=white&style=flat-square)
+![Bitrise](https://img.shields.io/badge/Bitrise-683D87?logo=bitrise&logoColor=white&style=flat-square)
+![Jankins](https://img.shields.io/badge/Jankins-D24939?logo=jenkins&logoColor=white&style=flat-square)
 
-| | |
-|:---|:---|
-| **Full Name** | Nutchaitat Tantanasuwan |
-| **Alias** | B2NKUU (แบงคุ) |
-| **Role** | Software Developer |
-| **Location** | Bangkok, Thailand |
-| **Birthday** | April 10, 1990 |
-| **Mission** | Crafting seamless digital experiences from mobile to cloud |
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" alt="Hammer and Wrench" /> Tech Stack
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" alt="Rocket" /> Languages & Core Frameworks
-
-| Language | Frameworks & Libraries |
-|:---|:---|
-| **Golang** | [Gofiber](https://github.com/gofiber/fiber) · [Echo](https://github.com/labstack/echo) |
-| **Dart** | [Flutter](https://github.com/flutter) · [Auto Route](https://github.com/Milad-Akarie/auto_route_library) · [Riverpod](https://github.com/rrousselgit/riverpod) · [Freezed](https://github.com/rrousselGit/freezed) |
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" alt="Gear" /> Platforms, Tools & Infrastructure
-
-| Category | Technologies |
-|:---|:---|
-| **Backend & Communication** | [Google Firebase](https://github.com/firebase) · [gRPC](https://github.com/grpc/grpc) · [ReactiveX](https://github.com/ReactiveX) |
-| **Databases** | PostgreSQL · Redis · SQL Server · MariaDB · MySQL · SphinxSearch |
-| **DevOps & Cloud** | AWS · Digital Ocean · Kubernetes (Kubesphere) · Bitrise · Jenkins |
-| **Protocols & Messaging** | MQTT (VerneMQ) · gRPC · AsyncQ |
-| **Legacy & Multi-Platform** | Kotlin · Swift · Java · Xamarin · .NET Framework · DNN Framework · AngularJS · CodeIgniter · jQuery |
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" alt="Briefcase" /> Experience
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="22" alt="Office Building" /> Bitkub Blockchain Technology Co., Ltd
-**Software Engineer Specialist** | *2025 ~ now*
-> [bitkubblockchain.com](https://www.bitkubblockchain.com)
-
-- **Stack:** Flutter · Dart
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="22" alt="Office Building" /> P'nB Solutions Co., Ltd.
-**Co-Founder** | *2025 ~ now*
-> [pnb.solutions](https://pnb.solutions)
-
-- **Stack:** Golang · Flutter · Claude Agent SDK
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="22" alt="Office Building" /> Tri Petch IT Solutions Co., Ltd.
-**Senior Mobile Developer** | *2022 ~ 2025*
-> [tripetchgroup.com](https://www.tripetchgroup.com/en/tripetchitsolutions)
-
-- **Stack:** Flutter with Riverpod · Kotlin (Native Android) · Swift (Native iOS) · CI/CD with Bitrise
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="22" alt="Office Building" /> Duckgroup Co., Ltd.
-**Freelance ~ System Developer** | *2022 ~ 2025*
-> [duckgroup.co](https://www.duckgroup.co)
-
-- **Stack:** Golang · PostgreSQL · Redis · AWS Services
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="22" alt="Office Building" /> Kayena Marketing Simulations
-**Senior Mobile Developer** | *2022 ~ 2022*
-> [kayena-simulations.io](https://kayena-simulations.io)
-
-- **Stack:** Flutter (2.X) · Kotlin (Native Android) · Swift (Native iOS)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="22" alt="Office Building" /> T-DEV Co., Ltd.
-**R&D Manager** | *2018 ~ 2022*
-> [t-dev.co](https://t-dev.co)
-
-- **Stack:** Flutter (1.x) · Golang · MQTT with VerneMQ · gRPC · PostgreSQL · Redis · AsyncQ · Kubernetes (Kubesphere) · Digital Ocean
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="22" alt="Office Building" /> Bighead Creative Co., Ltd.
-**Full-Stack Developer** | *2016 ~ 2018*
-> [bighead-creative.com](https://bighead-creative.com)
-
-- **Stack:** Java (Android) · Swift (iOS) · Xamarin · .NET Framework · DNN Framework · AngularJS (1.x) · MySQL
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="22" alt="Office Building" /> Pinperty Co., Ltd.
-**System Developer** | *2015 ~ 2016*
-> [pinperty.com](https://pinperty.com)
-
-- **Stack:** CodeIgniter · MariaDB · SphinxSearch · jQuery · Swift (iOS) · Digital Ocean · Jenkins
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="22" alt="Office Building" /> UIH Co., Ltd.
-**Junior Developer** | *2014 ~ 2015*
-> [uih.co.th](http://uih.co.th)
-
-- **Stack:** .NET Framework · SQL Server · Java (Android)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" width="22" alt="Office Building" /> Nysiis Solutions Co., Ltd.
-**Junior Developer** | *2012 ~ 2014*
-> [nysiissolutions.com](http://nysiissolutions.com)
-
-- **Stack:** .NET Framework · SQL Server
+### Platforms & Legacy
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)](https://github.com/firebase)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white&style=flat-square)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=flat-square)
+![DNN](https://img.shields.io/badge/DNN-000000?style=flat-square)
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="28" alt="Telephone Receiver" /> Let's Connect
+## 🚀 Career Trajectory
 
-<p align="center">
-  <a href="https://github.com/b2nkuu">
-    <img src="https://img.shields.io/badge/GitHub-666699?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <a href="mailto:ban.kuu@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/b2nkuu">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="28" alt="Incoming Envelope" /> Support My Work
-
-If you find my open-source work or contributions helpful, you can send a tip to any of the addresses below. Every bit of support fuels the next build!
-
-| Chain | Address |
-|:---|:---|
-| **Bitcoin (Taproot)** | `bc1pe4fsv9gx02v4ux390p2sdh2nse3jgpaxz59q7xllwpj8jev9rzysyu52hd` |
-| **EVM (ETH)** | `0xF7DFD0f0F28f21DCB9CBC3e1ade5535A9F16da75` |
-| **TON Coin (W5)** | `UQAqEzHJm_w8hk_4iG7J2cCOIV5Ij74BIsvf-F3dC08yAB8p` |
-| **Solana** | `29nno2AY8LcthAcsjmm7jcqFvTFD22jnB29YGNAume48` |
-| **Lightning** | `0xf7d16da75@bwb.io` |
+| 🏢 Organization | 💼 Role | 📅 Period | 🛠️ Craft |
+|:---|:---|:---:|:---|
+| [Bitkub Blockchain Technology Co., Ltd](https://www.bitkubblockchain.com) | Software Engineer Specialist | 2025 ~ now | Flutter · Dart |
+| [P'nB Solutions Co., Ltd.](https://pnb.solutions) | Co-Founder | 2025 ~ now | Golang · Flutter · Claude Agent SDK |
+| [Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions) | Senior Mobile Developer | 2022 ~ 2025 | Flutter with Riverpod · Kotlin for Native Android · Swift for Native iOS · CI/CD with Bitrise |
+| [Duckgroup Co., Ltd.](https://www.duckgroup.co) | Freelance ~ System Developer | 2022 ~ 2025 | Golang · PostgreSQL · Redis · AWS Services |
+| [Kayena Marketing Simulations](https://kayena-simulations.io) | Senior Mobile Developer | 2022 ~ 2022 | Flutter (2.X) · Kotlin for Native Android · Swift for Native iOS |
+| [T-DEV Co., Ltd.](https://t-dev.co) | R&D Manager | 2018 ~ 2022 | Flutter (1.x) · Golang · MQTT with VerneMQ · gRPC · PostgreSQL · Redis · AsyncQ · Kubernetes (Kubesphere) · Digital Ocean |
+| [Bighead Creative Co., Ltd.](https://bighead-creative.com) | Full-Stack Developer | 2016 ~ 2018 | Java for Android · Swift for iOS · Xamarin · .NET Framework · DNN Framework · AngularJS (1.x) · MySQL |
+| [Pinperty Co., Ltd.](https://pinperty.com) | System Developer | 2015 ~ 2016 | CodeIgniter · MariaDB · SphinxSearch · jQuery · Swift for iOS · Digital Ocean · Jankins |
+| [UIH Co., Ltd.](http://uih.co.th) | Junior Developer | 2014 ~ 2015 | .NET Framework · SQL Server · Java for Android |
+| [Nysiis Solutions Co., Ltd.](http://nysiissolutions.com) | Junior Developer | 2012 ~ 2014 | .NET Framework · SQL Server |
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn" alt="Footer Wave" />
-</p>
+## 💎 Decentralized Identity
 
-<p align="center">
-  <em>Thanks for stopping by. Let's build something extraordinary together.</em> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="16" alt="Star" />
-</p>
+> *Peer-to-peer contributions welcome.*
 
-<p align="center">
-  Generated by kimi-k2.6 at 2026-05-29.
-</p>
+| ⛓️ Network | 🪙 Coin | 📬 Address |
+|:---|:---:|:---|
+| **Bitcoin (Taproot)** | BTC | `bc1pe4fsv9gx02v4ux390p2sdh2nse3jgpaxz59q7xllwpj8jev9rzysyu52hd` |
+| **EVM** | ETH | `0xF7DFD0f0F28f21DCB9CBC3e1ade5535A9F16da75` |
+| **TON Coin (W5)** | TON | `UQAqEzHJm_w8hk_4iG7J2cCOIV5Ij74BIsvf-F3dC08yAB8p` |
+| **Solana** | SOL | `29nno2AY8LcthAcsjmm7jcqFvTFD22jnB29YGNAume48` |
+| **Lightning** | LN | `0xf7d16da75@bwb.io` |
+
+---
+
+<div align="center">
+
+*Engineered with precision in Bangkok* 🇹🇭
+
+*Open to collaborations, architecting the next layer of the web.*
+
+</div>
+
+Generated by kimi-k2.6 at 2026-05-30.
