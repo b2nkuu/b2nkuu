@@ -12,6 +12,13 @@
             "source": "./plugins/spirit-mindset",
             "url": "https://github.com/b2nkuu/spirit-mindset",
             "category": "productivity"
+        },
+        {
+            "name": "solo-flow",
+            "description": "Lightweight GitHub Issues task management for solo developers — capture, today, start, done, note, block, plan, week via slash commands",
+            "source": "./plugins/solo-flow",
+            "url": "https://github.com/b2nkuu/solo-flow",
+            "category": "productivity"
         }
     ]
 }
