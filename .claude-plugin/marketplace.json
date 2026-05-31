@@ -7,17 +7,17 @@
     },
     "plugins": [
         {
-            "name": "spirit-mindset",
+            "name": "spirit",
             "description": "Japanese-philosophy mindset skills for software development — Ikigai, Kaizen, Shokunin, Wabi-Sabi, Gaman, Kanso",
-            "source": "./plugins/spirit-mindset",
-            "url": "https://github.com/b2nkuu/spirit-mindset",
+            "source": "./plugins/spirit",
+            "url": "https://github.com/b2nkuu/spirit",
             "category": "productivity"
         },
         {
-            "name": "solo-flow",
+            "name": "solo",
             "description": "Lightweight GitHub Issues task management for solo developers — capture, today, start, done, note, block, plan, week via slash commands",
-            "source": "./plugins/solo-flow",
-            "url": "https://github.com/b2nkuu/solo-flow",
+            "source": "./plugins/solo",
+            "url": "https://github.com/b2nkuu/solo",
             "category": "productivity"
         }
     ]
