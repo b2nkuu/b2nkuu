@@ -1,82 +1,122 @@
+<img align="right" src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=200" width="200" style="border-radius: 50%;" alt="B2NKUU Avatar" />
+
+# <div align="left">B2NKUU <span style="font-size: 0.6em; opacity: 0.7;">(แบงคุ)</span></div>
+
+### <div align="left">Nutchaitat Tantanasuwan — Software Developer</div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/📍-Bangkok,_Thailand-2ea44f?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/🎂-April_10,_1990-ff69b4?style=flat-square" alt="Birthday" />
+</div>
+
+<br>
+
+> *"Code with purpose. Build with spirit. Ship with kaizen."*
+
+---
+
+## 📡 Connect
+
 <div align="center">
 
-<img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=200" width="120" alt="Nutchaitat Tantanasuwan Avatar"/>
-
-# ✨ B2NKUU &nbsp;|&nbsp; แบงคุ ✨
-### Nutchaitat Tantanasuwan
-**Software Developer** &nbsp;•&nbsp; Bangkok, Thailand 🌏 &nbsp;•&nbsp; 🎂 April 10, 1990
-
-[![Github](https://img.shields.io/badge/Github-666699?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b2nkuu)
+[![GitHub](https://img.shields.io/badge/GitHub-666699?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b2nkuu)
 [![Email](https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ban.kuu@yahoo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b2nkuu)
-
-Polyglot developer navigating the full stack — from Flutter-powered mobile experiences to high-performance Golang backends.  
-Co-founder crafting solutions at **P'nB Solutions** while engineering the future of blockchain at **Bitkub**.
 
 </div>
 
 ---
 
-## 🔐 Digital Wallets
+## 🧰 Tech Stack
 
-Decentralized and always on-chain. If you're building in Web3 or just feeling generous:
+### Languages & Frameworks
 
-| Code | Network | Address |
-|:----:|:--------|:--------|
-| BTC | Bitcoin (Taproot) | `bc1pe4fsv9gx02v4ux390p2sdh2nse3jgpaxz59q7xllwpj8jev9rzysyu52hd` |
-| ETH | EVM | `0xF7DFD0f0F28f21DCB9CBC3e1ade5535A9F16da75` |
-| TON | TON Coin (W5) | `UQAqEzHJm_w8hk_4iG7J2cCOIV5Ij74BIsvf-F3dC08yAB8p` |
-| SOL | Solana | `29nno2AY8LcthAcsjmm7jcqFvTFD22jnB29YGNAume48` |
-| LN | Lightning | `0xf7d16da75@bwb.io` |
+<div align="center">
 
----
+| **Golang** 🐹 | **Dart** 🎯 |
+|:---:|:---:|
+| [Gofiber](https://github.com/gofiber/fiber) | [Flutter](https://github.com/flutter) |
+| [Echo](https://github.com/labstack/echo) | [Auto Route](https://github.com/Milad-Akarie/auto_route_library) |
+| | [Riverpod](https://github.com/rrousselgit/riverpod) |
+| | [Freezed](https://github.com/rrousselGit/freezed) |
 
-## 🧰 Tech Arsenal
+</div>
 
-Languages & frameworks I wield to turn ideas into production-grade reality:
+### Infrastructure & Tools
 
-* **🐹 Golang** — [Gofiber](https://github.com/gofiber/fiber) · [Echo](https://github.com/labstack/echo)
-* **💙 Dart** — [Flutter](https://github.com/flutter) · [Auto Route](https://github.com/Milad-Akarie/auto_route_library) · [Riverpod](https://github.com/rrousselgit/riverpod) · [Freezed](https://github.com/rrousselGit/freezed)
-* **🛠️ Other** — [Google Firebase](https://github.com/firebase) · [gRPC](https://github.com/grpc/grpc) · [ReactiveX](https://github.com/ReactiveX)
+<div align="center">
 
----
+[![Google Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://github.com/firebase)
+[![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)](https://github.com/grpc/grpc)
+[![ReactiveX](https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=reactivex&logoColor=white)](https://github.com/ReactiveX)
 
-## 💼 Professional Journey
-
-A decade-plus evolution from Junior Developer to Blockchain Software Engineer — fueled by curiosity, caffeine, and a stubborn refusal to stop learning.
-
-| Period | Organization | Role | Stack |
-|:------:|:-------------|:-----|:------|
-| 2025 ~ now ⚡ | [Bitkub Blockchain Technology Co., Ltd.](https://www.bitkubblockchain.com) | Software Engineer Specialist | Flutter, Dart |
-| 2025 ~ now ⚡ | [P'nB Solutions Co., Ltd.](https://pnb.solutions) | Co-Founder | Golang, Flutter, Claude Agent SDK |
-| 2022 ~ 2025 | [Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions) | Senior Mobile Developer | Flutter with Riverpod, Kotlin for Native Android, Swift for Native iOS, CI/CD with Bitrise |
-| 2022 ~ 2025 | [Duckgroup Co., Ltd.](https://www.duckgroup.co) | Freelance ~ System Developer | Golang, PostgreSQL, Redis, AWS Services |
-| 2022 ~ 2022 | [Kayena Marketing Simulations](https://kayena-simulations.io) | Senior Mobile Developer | Flutter (2.X), Kotlin for Native Android, Swift for Native iOS |
-| 2018 ~ 2022 | [T-DEV Co., Ltd.](https://t-dev.co) | R&D Manager | Flutter (1.x), Golang, MQTT with VerneMQ, gRPC, PostgreSQL, Redis, AsyncQ, Kubernetes (Kubesphere), Digital Ocean |
-| 2016 ~ 2018 | [Bighead Creative Co., Ltd.](https://bighead-creative.com) | Full-Stack Developer | Java for Android, Swift for iOS, Xamarin, .NET Framework, DNN Framework, AngularJS (1.x), MySQL |
-| 2015 ~ 2016 | [Pinperty Co., Ltd.](https://pinperty.com) | System Developer | CodeIgniter, MariaDB, SphinxSearch, jQuery, Swift for iOS, Digital Ocean, Jankins |
-| 2014 ~ 2015 | [UIH Co., Ltd.](http://uih.co.th) | Junior Developer | .NET Framework, SQL Server, Java for Android |
-| 2012 ~ 2014 | [Nysiis Solutions Co., Ltd.](http://nysiissolutions.com) | Junior Developer | .NET Framework, SQL Server |
+</div>
 
 ---
 
-## 🚀 Featured Creations
+## 💼 Experience
 
-Open-source experiments and tools born from daily workflows:
+<div align="center">
 
-| Project | Description |
-|:--------|:------------|
-| [city-blue](https://github.com/b2nkuu/city-blue) | Blue-tinted tmux theme |
-| [spirit](https://github.com/b2nkuu/spirit) | Japanese-philosophy mindsets & skills for software development (Ikigai, Kaizen, Shokunin, Wabi-Sabi, Gaman, Kanso) |
-| [solo](https://github.com/b2nkuu/solo) | Claude Code plugin — solopreneur task manager backed by GitHub Issues |
+| 🏢 Company | 💼 Role | 📅 Year | 🛠️ Stack |
+|:---|:---|:---|:---|
+| [**Bitkub Blockchain Technology**](https://www.bitkubblockchain.com) | Software Engineer Specialist | 2025 ~ now | Flutter, Dart |
+| [**Tri Petch IT Solutions**](https://www.tripetchgroup.com/en/tripetchitsolutions) | Senior Mobile Developer | 2022 ~ 2025 | Flutter with Riverpod, Kotlin (Android), Swift (iOS), CI/CD with Bitrise |
+| [**P'nB Solutions**](https://pnb.solutions) | Co-Founder | 2025 ~ now | Golang, Flutter, Claude Agent SDK |
+| [**Duckgroup**](https://www.duckgroup.co) | Freelance ~ System Developer | 2022 ~ 2025 | Golang, PostgreSQL, Redis, AWS Services |
+| [**Kayena Marketing Simulations**](https://kayena-simulations.io) | Senior Mobile Developer | 2022 | Flutter (2.X), Kotlin (Android), Swift (iOS) |
+| [**T-DEV**](https://t-dev.co) | R&D Manager | 2018 ~ 2022 | Flutter (1.x), Golang, MQTT with VerneMQ, gRPC, PostgreSQL, Redis, AsyncQ, Kubernetes (Kubesphere), Digital Ocean |
+| [**Bighead Creative**](https://bighead-creative.com) | Full-Stack Developer | 2016 ~ 2018 | Java (Android), Swift (iOS), Xamarin, .NET Framework, DNN Framework, AngularJS (1.x), MySQL |
+| [**Pinperty**](https://pinperty.com) | System Developer | 2015 ~ 2016 | CodeIgniter, MariaDB, SphinxSearch, jQuery, Swift (iOS), Digital Ocean, Jenkins |
+| [**UIH**](http://uih.co.th) | Junior Developer | 2014 ~ 2015 | .NET Framework, SQL Server, Java (Android) |
+| [**Nysiis Solutions**](http://nysiissolutions.com) | Junior Developer | 2012 ~ 2014 | .NET Framework, SQL Server |
+
+</div>
 
 ---
 
-## 🌐 Let's Build Together
+## 🚀 Projects
 
-Got an ambitious idea, a crypto-native project, or just want to talk shop about **Flutter**, **Go**, or Japanese philosophy?  
-My inbox and DMs are always open. Let's build something legendary.
+<div align="center">
+
+| 🌟 Project | 📝 Description | 🔗 Link |
+|:---|:---|:---|
+| **city-blue** | Blue-tinted tmux theme | [GitHub](https://github.com/b2nkuu/city-blue) |
+| **spirit** | Japanese-philosophy mindsets & skills for software development (Ikigai, Kaizen, Shokunin, Wabi-Sabi, Gaman, Kanso) | [GitHub](https://github.com/b2nkuu/spirit) |
+| **solo** | Claude Code plugin — solopreneur task manager backed by GitHub Issues | [GitHub](https://github.com/b2nkuu/solo) |
+
+</div>
 
 ---
 
-Generated by kimi-k2.6 at 2026-08-20.
+## 💎 Support
+
+<details>
+<summary>Click to expand crypto wallets</summary>
+<br>
+
+| 💰 Coin | 🔗 Address |
+|:---|:---|
+| **Bitcoin (Taproot)** | `bc1pe4fsv9gx02v4ux390p2sdh2nse3jgpaxz59q7xllwpj8jev9rzysyu52hd` |
+| **EVM** | `0xF7DFD0f0F28f21DCB9CBC3e1ade5535A9F16da75` |
+| **TON Coin (W5)** | `UQAqEzHJm_w8hk_4iG7J2cCOIV5Ij74BIsvf-F3dC08yAB8p` |
+| **Solana** | `29nno2AY8LcthAcsjmm7jcqFvTFD22jnB29YGNAume48` |
+| **Lightning** | `0xf7d16da75@bwb.io` |
+
+</details>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Build Something Together
+
+*Open to collaborations, freelance opportunities, and interesting conversations.*
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Generated by kimi-k2.6 at 2026-08-21.</sub>
+</div>
