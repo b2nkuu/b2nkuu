@@ -1,194 +1,183 @@
-<div align="center">
-  <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100" width="100" height="100" style="border-radius: 50%; border: 2px solid #2a2a2a;" alt="Nutchaitat Tantanasuwan Avatar"/>
+<p align="center">
+  <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=400" width="160" height="160" style="border-radius: 50%;" alt="Nutchaitat Tantanasuwan Avatar" />
+</p>
 
-  # Nutchaitat Tantanasuwan
-  ### `B2NKUU` · `แบงคุ`
+<h1 align="center">B2NKUU <sub>แบงคุ</sub></h1>
+<h3 align="center">Nutchaitat Tantanasuwan</h3>
 
-  **Software Developer at AutoX Co., Ltd.**
+<p align="center">
+  <strong>Software Developer at AutoX Co., Ltd.</strong><br>
+  📍 Bangkok, Bangkok City, Thailand · 🎂 April 10, 1990
+</p>
 
-  🎂 *April 10, 1990* · 📍 *Bangkok, Bangkok City, Thailand*
-
-  [![GitHub](https://img.shields.io/badge/GitHub-666699?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b2nkuu)
-  [![Email](https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ban.kuu@yahoo.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b2nkuu)
-</div>
-
----
-
-## 🧭 Philosophy
-
-> *"Engineering with the spirit of Shokunin — purposeful, precise, and ever-evolving through Kaizen."*
-
-Passionate Software Developer with over a decade of experience crafting innovative solutions across mobile, backend, and full-stack development. Currently specializing in the **Flutter** and **Golang** ecosystems, with a proven track record of leading R&D initiatives and building scalable, production-grade systems. I believe great software is born from *Ikigai* — where skill, passion, and impact intersect.
+<p align="center">
+  <a href="https://github.com/b2nkuu"><img src="https://img.shields.io/badge/GitHub-666699?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:ban.kuu@yahoo.com"><img src="https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/b2nkuu"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
-## 💼 Professional Journey
+## 🧬 Digital DNA
 
-### 🌟 Current Chapter
-
-**AutoX Co., Ltd.** · `Software Developer` · *2026 ~ now*
-
-**Siamese Codes** · `Full-Cycle Developer` · *2026 ~ now*
-
-**[P'nB Solutions Co., Ltd.](https://pnb.solutions)** · `Co-Founder` · *2025 ~ now*
-> 🛠️ `Golang` · `Flutter` · `Claude Agent SDK`
+> Passionate Software Developer with over a decade of experience crafting innovative solutions across mobile, backend, and full-stack development. Currently specializing in Flutter and Golang ecosystems, with a proven track record of leading R&D initiatives and building scalable systems.
 
 ---
 
-### 🚀 Web3 & Enterprise
+## 🛰️ Active Deployments
 
-**[Bitkub Blockchain Technology Co., Ltd](https://www.bitkubblockchain.com)** · `Software Developer` · *2025 ~ 2026*
-> 🛠️ `Flutter` · `Dart` · `Bitkub Chain (KUB)` · `Smart Contract Integration`
->
-> 🌟 Designed and shipped **KUB Wallet 3.0**, a non-custodial crypto wallet on Bitkub Chain — owned UX/UI redesign, secure on-device key handling, and on-chain integration through production release on iOS and Android.
+**🏢 AutoX Co., Ltd.** · `2026 ~ now`  
+*Software Developer*
 
-**[Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions)** · `Software Developer` · *2023 ~ 2025*
-> 🛠️ `Flutter with Riverpod` · `Kotlin for Native Android` · `Swift for Native iOS` · `CI/CD with Bitrise`
->
-> 🌟 Implemented and maintained the **my-ISUZU** application.
+**💼 Siamese Codes** · `2026 ~ now`  
+*Full-Cycle Developer*
 
-**[Duckgroup Co., Ltd.](https://www.duckgroup.co)** · `Freelance ~ System Developer` · *2022 ~ 2025*
-> 🛠️ `Golang` · `PostgreSQL` · `Redis` · `AWS Services`
-
-**[Kayena Marketing Simulations](https://kayena-simulations.io)** · `Full Stack Developer` · *2022 ~ 2023*
-> 🛠️ `Flutter (2.X)` · `Kotlin for Native Android` · `Swift for Native iOS`
->
-> 🌟 Architected and built the **Phorjai**, **Bimini**, and **Painai** applications.
-
-**WEDO** · `Technology Developer` · *2022 ~ 2022*
-> 🛠️ `AWS IoT Core` · `MQTT` · `Device Shadow`
->
-> 🌟 Connected device sensors to the server over MQTT and managed device state with Device Shadow.
+**🚀 P'nB Solutions Co., Ltd.** · `2025 ~ now` · [pnb.solutions](https://pnb.solutions)  
+*Co-Founder*  
+`Golang` · `Flutter` · `Claude Agent SDK`
 
 ---
 
-### 🏗️ The Founding Era
+## 🔥 Featured Engagements
 
-**[T-DEV Co., Ltd.](https://t-dev.co)** · `Full Stack Engineer` · *2019 ~ 2022*
-> 🛠️ `Flutter (1.x)` · `Golang (Echo, Gofiber)` · `Python (Django)` · `Nuxt.js` · `Angular` · `MQTT with VerneMQ` · `gRPC` · `PostgreSQL` · `Redis` · `AsyncQ` · `Kubernetes (Kubesphere)` · `Digital Ocean`
->
-> 🌟 Founder of T-DEV. Architected the Otteri platform, the LC franchisee platform, an internal payment gateway, and IoT services.
+### Bitkub Blockchain Technology Co., Ltd
+`2025 ~ 2026` · **Software Developer** · [bitkubblockchain.com](https://www.bitkubblockchain.com)
 
----
+> Designed and shipped KUB Wallet 3.0, a non-custodial crypto wallet on Bitkub Chain — owned UX/UI redesign, secure on-device key handling, and on-chain integration through production release on iOS and Android.
 
-### 📜 Foundation Years
+`Flutter` · `Dart` · `Bitkub Chain (KUB)` · `Smart Contract Integration`
 
-**[Bighead Creative Co., Ltd.](https://bighead-creative.com)** · `Mobile Developer` · *2016 ~ 2018*
-> 🛠️ `Java for Android` · `Swift for iOS` · `Xamarin` · `.NET Framework` · `DNN Framework` · `AngularJS (1.x)` · `MySQL`
->
-> 🌟 Built MTL Smile Service, Toyota T-Mex & Privilege, and Meetang.
+### Tri Petch IT Solutions Co., Ltd.
+`2023 ~ 2025` · **Software Developer** · [tripetchgroup.com](https://www.tripetchgroup.com/en/tripetchitsolutions)
 
-**[Pinperty Co., Ltd.](https://pinperty.com)** · `System Engineer` · *2015 ~ 2016*
-> 🛠️ `MariaDB (Flexview)` · `MongoDB` · `SphinxSearch` · `Python (Django)` · `Crossbar.io (WebSocket)` · `Swift for iOS` · `Digital Ocean`
->
-> 🌟 Built a proprietary map-based real estate search system — full-text search, big-data storage, and realtime processing.
+> Implemented and maintained the my-ISUZU application.
 
-**[United Information Highway Co., Ltd.](http://uih.co.th)** · `.NET Developer` · *2014 ~ 2015*
-> 🛠️ `ASP.NET` · `SQL Server` · `Java for Android` · `Google Maps API`
+`Flutter with Riverpod` · `Kotlin for Native Android` · `Swift for Native iOS` · `CI/CD with Bitrise`
 
-**[Nysiis Solutions Co., Ltd.](http://nysiissolutions.com)** · `.NET Developer` · *2012 ~ 2014*
-> 🛠️ `.NET Framework` · `SQL Server`
+### Duckgroup Co., Ltd.
+`2022 ~ 2025` · **Freelance ~ System Developer** · [duckgroup.co](https://www.duckgroup.co)
 
----
+`Golang` · `PostgreSQL` · `Redis` · `AWS Services`
 
-## 🛠️ Technical Constellation
+### Kayena Marketing Simulations
+`2022 ~ 2023` · **Full Stack Developer** · [kayena-simulations.io](https://kayena-simulations.io)
 
-### ⚡ Core Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+> Architected and built the Phorjai, Bimini, and Painai applications.
 
-### 🎨 Mobile & Interface Craft
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+`Flutter (2.X)` · `Kotlin for Native Android` · `Swift for Native iOS`
 
-### 🏗️ Backend & Architecture
-![Gofiber](https://img.shields.io/badge/Gofiber-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Echo](https://img.shields.io/badge/Echo-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+### WEDO
+`2022 ~ 2022` · **Technology Developer**
 
-### 🧠 State, Logic & Data
-![Riverpod](https://img.shields.io/badge/Riverpod-0175C2?style=flat-square&logo=flutter&logoColor=white)
-![AutoRoute](https://img.shields.io/badge/AutoRoute-0175C2?style=flat-square&logo=flutter&logoColor=white)
-![Freezed](https://img.shields.io/badge/Freezed-0175C2?style=flat-square&logo=dart&logoColor=white)
-![ReactiveX](https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL%20Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+> Connected device sensors to the server over MQTT and managed device state with Device Shadow.
 
-### ☁️ Cloud, DevOps & Web3
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Digital%20Ocean](https://img.shields.io/badge/Digital%20Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Bitkub%20Chain](https://img.shields.io/badge/Bitkub%20Chain-FCD535?style=flat-square&logo=bitcoin&logoColor=black)
-
-> 📚 **Signature Libraries**: [Gofiber](https://github.com/gofiber/fiber) · [Echo](https://github.com/labstack/echo) · [Flutter](https://github.com/flutter) · [Auto Route](https://github.com/Milad-Akarie/auto_route_library) · [Riverpod](https://github.com/rrousselgit/riverpod) · [Freezed](https://github.com/rrousselGit/freezed)
+`AWS IoT Core` · `MQTT` · `Device Shadow`
 
 ---
 
-## 🚀 Featured Projects
+## ⚙️ Previous Builds
+
+### T-DEV Co., Ltd.
+`2019 ~ 2022` · **Full Stack Engineer** · [t-dev.co](https://t-dev.co)
+
+> Founder of T-DEV. Architected the Otteri platform, the LC franchisee platform, an internal payment gateway, and IoT services.
+
+`Flutter (1.x)` · `Golang (Echo, Gofiber)` · `Python (Django)` · `Nuxt.js` · `Angular` · `MQTT with VerneMQ` · `gRPC` · `PostgreSQL` · `Redis` · `AsyncQ` · `Kubernetes (Kubesphere)` · `Digital Ocean`
+
+### Bighead Creative Co., Ltd.
+`2016 ~ 2018` · **Mobile Developer** · [bighead-creative.com](https://bighead-creative.com)
+
+> Built MTL Smile Service, Toyota T-Mex & Privilege, and Meetang.
+
+`Java for Android` · `Swift for Native iOS` · `Xamarin` · `.NET Framework` · `DNN Framework` · `AngularJS (1.x)` · `MySQL`
+
+### Pinperty Co., Ltd.
+`2015 ~ 2016` · **System Engineer** · [pinperty.com](https://pinperty.com)
+
+> Built a proprietary map-based real estate search system — full-text search, big-data storage, and realtime processing.
+
+`MariaDB (Flexview)` · `MongoDB` · `SphinxSearch` · `Python (Django)` · `Crossbar.io (WebSocket)` · `Swift for iOS` · `Digital Ocean`
+
+### United Information Highway Co., Ltd.
+`2014 ~ 2015` · **.NET Developer** · [uih.co.th](http://uih.co.th)
+
+`ASP.NET` · `SQL Server` · `Java for Android` · `Google Maps API`
+
+### Nysiis Solutions Co., Ltd.
+`2012 ~ 2014` · **.NET Developer** · [nysiissolutions.com](http://nysiissolutions.com)
+
+`.NET Framework` · `SQL Server`
+
+---
+
+## 🧰 Technical Arsenal
+
+### 🐹 Golang Ecosystem
+<img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+<img src="https://img.shields.io/badge/Gofiber-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gofiber" />
+<img src="https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Echo" />
+
+### 🎯 Dart & Mobile Architecture
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Auto_Route-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Auto Route" />
+<img src="https://img.shields.io/badge/Riverpod-00B4AB?style=for-the-badge&logo=dart&logoColor=white" alt="Riverpod" />
+<img src="https://img.shields.io/badge/Freezed-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Freezed" />
+
+### 🌐 Platforms & Tooling
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="ReactiveX" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+
+---
+
+## 🚀 Shipyard
 
 | Project | Description | Link |
-|:---|:---|:---|
-| 🎨 **city-blue** | A blue-tinted tmux theme for focused terminal workflows. | [GitHub](https://github.com/b2nkuu/city-blue) |
-| 🧘 **spirit** | Japanese-philosophy mindsets & skills for software development — exploring *Ikigai*, *Kaizen*, *Shokunin*, *Wabi-Sabi*, *Gaman*, and *Kanso*. | [GitHub](https://github.com/b2nkuu/spirit) |
-| ⚡ **solo** | Claude Code plugin — a solopreneur task manager backed by GitHub Issues. | [GitHub](https://github.com/b2nkuu/solo) |
+|---------|-------------|------|
+| 🌃 **city-blue** | Blue-tinted tmux theme | [GitHub](https://github.com/b2nkuu/city-blue) |
+| 🎋 **spirit** | Japanese-philosophy mindsets & skills for software development *(Ikigai, Kaizen, Shokunin, Wabi-Sabi, Gaman, Kanso)* | [GitHub](https://github.com/b2nkuu/spirit) |
+| 🎯 **solo** | Claude Code plugin — solopreneur task manager backed by GitHub Issues | [GitHub](https://github.com/b2nkuu/solo) |
 
 ---
 
-## 🎓 Education & Credentials
+## 🎓 Knowledge Base
 
-- **Dhurakij Pundit University (DPU)** — Bachelor's degree, Computer Engineering *(2008 ~ 2012)*
-- **SQL Certificate — Basic**
-- **Problem Solving Certificate — Basic**
+**Dhurakij Pundit University (DPU)**  
+`2008 ~ 2012` · Bachelor's degree, Computer Engineering
 
----
-
-## 💎 Digital Wallets
-
-> *Supporting open-source craftsmanship and the decentralized future.*
-
-| Asset | Type | Address |
-|:---|:---|:---|
-| ₿ **Bitcoin** | Taproot | `bc1pe4fsv9gx02v4ux390p2sdh2nse3jgpaxz59q7xllwpj8jev9rzysyu52hd` |
-| ◈ **EVM** | ETH | `0xF7DFD0f0F28f21DCB9CBC3e1ade5535A9F16da75` |
-| 🌐 **TON Coin** | W5 | `UQAqEzHJm_w8hk_4iG7J2cCOIV5Ij74BIsvf-F3dC08yAB8p` |
-| ⚡ **Solana** | SPL | `29nno2AY8LcthAcsjmm7jcqFvTFD22jnB29YGNAume48` |
-| 🗲 **Lightning** | LNURL | `0xf7d16da75@bwb.io` |
+### Certifications
+- 🏅 SQL Certificate — Basic
+- 🏅 Problem Solving Certificate — Basic
 
 ---
 
-<div align="center">
+## ⛓️ On-Chain Identity
 
-  ### Let's build something extraordinary together.
+*If my work resonates, fuel the journey.*
 
-  *Open to collaborations, R&D ventures, and meaningful engineering challenges.*
-
-  [![GitHub](https://img.shields.io/badge/GitHub-666699?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b2nkuu)
-  [![Email](https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ban.kuu@yahoo.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b2nkuu)
-
-</div>
+| Network | Currency | Address |
+|---------|----------|---------|
+| <img src="https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=white&style=flat-square" height="22" alt="Bitcoin"> | Bitcoin (Taproot) | `bc1pe4fsv9gx02v4ux390p2sdh2nse3jgpaxz59q7xllwpj8jev9rzysyu52hd` |
+| <img src="https://img.shields.io/badge/EVM-3C3C3D?logo=ethereum&logoColor=white&style=flat-square" height="22" alt="EVM"> | EVM | `0xF7DFD0f0F28f21DCB9CBC3e1ade5535A9F16da75` |
+| <img src="https://img.shields.io/badge/TON-0088CC?logo=ton&logoColor=white&style=flat-square" height="22" alt="TON"> | TON Coin (W5) | `UQAqEzHJm_w8hk_4iG7J2cCOIV5Ij74BIsvf-F3dC08yAB8p` |
+| <img src="https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white&style=flat-square" height="22" alt="Solana"> | Solana | `29nno2AY8LcthAcsjmm7jcqFvTFD22jnB29YGNAume48` |
+| <img src="https://img.shields.io/badge/Lightning-792EE5?logo=lightning&logoColor=white&style=flat-square" height="22" alt="Lightning"> | Lightning | `0xf7d16da75@bwb.io` |
 
 ---
 
-Generated by kimi-k2.6 at 2026-09-27.
+## 📡 Uplink
+
+<p align="center">
+  <a href="https://github.com/b2nkuu"><img src="https://img.shields.io/badge/GitHub-666699?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:ban.kuu@yahoo.com"><img src="https://img.shields.io/badge/Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/b2nkuu"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center"><em>Always open to building the future. Let’s architect something extraordinary together.</em></p>
+
+---
+
+<p align="right"><sub><em>Generated by kimi-k2.6 at 2026-09-28.</em></sub></p>
