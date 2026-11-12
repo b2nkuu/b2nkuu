@@ -1,142 +1,136 @@
 <p align="center">
-  <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=200" width="120" alt="Nutchaitat Tantanasuwan avatar" style="border-radius: 50%;" />
+  <img src="https://s.gravatar.com/avatar/f4d979271ae042b54e5f717a803abcf3?s=100" width="100" alt="Nutchaitat Tantanasuwan" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">B2NKUU</h1>
-<h3 align="center">แบงคุ · Nutchaitat Tantanasuwan</h3>
-
-<p align="center"><strong>🚀 Software Developer at AutoX Co., Ltd.</strong></p>
-<p align="center">📍 Bangkok, Bangkok City, Thailand &nbsp;·&nbsp; ♈ <code>1990-04-10</code></p>
+<h1 align="center">B2NKUU <sub><samp>แบงคุ</samp></sub></h1>
+<h3 align="center">Nutchaitat Tantanasuwan</h3>
 
 <p align="center">
-  <a href="https://github.com/b2nkuu"><img src="https://img.shields.io/badge/Github-666699?logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:ban.kuu@yahoo.com"><img src="https://img.shields.io/badge/Email-643b9f?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/b2nkuu"><img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  🚀 Software Developer at <strong>AutoX Co., Ltd.</strong><br>
+  📍 Bangkok, Bangkok City, Thailand &nbsp;•&nbsp; 🎂 April 10, 1990
+</p>
+
+<p align="center">
+  <a href="https://github.com/b2nkuu"><img src="https://img.shields.io/badge/-b2nkuu-666699?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:ban.kuu@yahoo.com"><img src="https://img.shields.io/badge/-Email-643b9f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/b2nkuu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-> 🧠 Passionate Software Developer with over a decade of experience crafting innovative solutions across mobile, backend, and full-stack development. Currently specializing in Flutter and Golang ecosystems, with a proven track record of leading R&D initiatives and building scalable systems.
+> ✨ *Passionate Software Developer with over a decade of experience crafting innovative solutions across mobile, backend, and full-stack development. Currently specializing in Flutter and Golang ecosystems, with a proven track record of leading R&D initiatives and building scalable systems.*
 
 ---
 
-### 🛠️ Tech Arsenal
+## 🛰️ Tech Constellation
 
-**Golang**
-[Gofiber](https://github.com/gofiber/fiber) · [Echo](https://github.com/labstack/echo)
+**🚀 Languages**
+`Go` · `Dart` · `Python` · `Java` · `Swift` · `Kotlin`
 
-**Dart**
-[Flutter](https://github.com/flutter) · [Riverpod](https://github.com/rrousselgit/riverpod) · [Auto Route](https://github.com/Milad-Akarie/auto_route_library) · [Freezed](https://github.com/rrousselGit/freezed)
+**📱 Mobile, Frontend & Dart Ecosystem**
+`Flutter` · `Auto Route` · `Riverpod` · `Freezed` · `Next.js` · `Nuxt.js` · `Angular` · `AngularJS` · `Xamarin` · `DNN Framework`
 
-**Other**
-[Google Firebase](https://github.com/firebase) · [gRPC](https://github.com/grpc/grpc) · [ReactiveX](https://github.com/ReactiveX) · [Next.js](https://github.com/vercel/next.js) · [Supabase](https://github.com/supabase/supabase)
+**⚙️ Backend & APIs**
+`Gofiber` · `Echo` · `Django` · `ASP.NET` · `.NET Framework` · `gRPC` · `ReactiveX` · `WebSocket` · `Crossbar.io` · `MQTT` · `AsyncQ`
 
----
+**☁️ Cloud, DevOps & Infrastructure**
+`Firebase` · `Supabase` · `AWS` · `AWS IoT Core` · `Kubernetes (Kubesphere)` · `Digital Ocean` · `Bitrise` · `VerneMQ` · `Device Shadow`
 
-### 💼 Experience
+**🗄️ Databases & Search**
+`PostgreSQL` · `Redis` · `MongoDB` · `MariaDB (Flexview)` · `SQL Server` · `MySQL` · `SphinxSearch`
 
-#### 🏢 AutoX Co., Ltd. · `2026 ~ now`
-**Software Developer**
+**⛓️ Blockchain & Web3**
+`Bitkub Chain (KUB)` · `Smart Contract Integration` · `EVM` · `Bitcoin (Taproot)` · `TON (W5)` · `Solana` · `Lightning`
 
-#### 🏢 Siamese Codes · `2026 ~ now`
-**Full-Cycle Developer**
-
-#### 🏢 P'nB Solutions Co., Ltd. · [`2025 ~ now`](https://pnb.solutions)
-**Co-Founder**
-
-`Golang` `Flutter` `Claude Agent SDK`
-
-#### 🏢 Bitkub Blockchain Technology Co., Ltd · [`2025 ~ 2026`](https://www.bitkubblockchain.com)
-**Software Developer**
-
-🌟 **Highlight:** Designed and shipped KUB Wallet 3.0, a non-custodial crypto wallet on Bitkub Chain — owned UX/UI redesign, secure on-device key handling, and on-chain integration through production release on iOS and Android.
-
-`Flutter` `Dart` `Bitkub Chain (KUB)` `Smart Contract Integration`
-
-#### 🏢 Tri Petch IT Solutions Co., Ltd. · [`2023 ~ 2025`](https://www.tripetchgroup.com/en/tripetchitsolutions)
-**Software Developer**
-
-🌟 **Highlight:** Implemented and maintained the my-ISUZU application.
-
-`Flutter with Riverpod` `Kotlin for Native Android` `Swift for Native iOS` `CI/CD with Bitrise`
-
-#### 🏢 Duckgroup Co., Ltd. · [`2022 ~ 2025`](https://www.duckgroup.co)
-**Freelance ~ System Developer**
-
-`Golang` `PostgreSQL` `Redis` `AWS Services`
-
-#### 🏢 Kayena Marketing Simulations · [`2022 ~ 2023`](https://kayena-simulations.io)
-**Full Stack Developer**
-
-🌟 **Highlight:** Architected and built the Phorjai, Bimini, and Painai applications.
-
-`Flutter (2.X)` `Kotlin for Native Android` `Swift for Native iOS`
-
-#### 🏢 WEDO · `2022 ~ 2022`
-**Technology Developer**
-
-🌟 **Highlight:** Connected device sensors to the server over MQTT and managed device state with Device Shadow.
-
-`AWS IoT Core` `MQTT` `Device Shadow`
-
-#### 🏢 T-DEV Co., Ltd. · [`2019 ~ 2022`](https://t-dev.co)
-**Full Stack Engineer**
-
-🌟 **Highlight:** Founder of T-DEV. Architected the Otteri platform, the LC franchisee platform, an internal payment gateway, and IoT services.
-
-`Flutter (1.x)` `Golang (Echo, Gofiber)` `Python (Django)` `Nuxt.js` `Angular` `MQTT with VerneMQ` `gRPC` `PostgreSQL` `Redis` `AsyncQ` `Kubernetes (Kubesphere)` `Digital Ocean`
-
-#### 🏢 Bighead Creative Co., Ltd. · [`2016 ~ 2018`](https://bighead-creative.com)
-**Mobile Developer**
-
-🌟 **Highlight:** Built MTL Smile Service, Toyota T-Mex & Privilege, and Meetang.
-
-`Java for Android` `Swift for iOS` `Xamarin` `.NET Framework` `DNN Framework` `AngularJS (1.x)` `MySQL`
-
-#### 🏢 Pinperty Co., Ltd. · [`2015 ~ 2016`](https://pinperty.com)
-**System Engineer**
-
-🌟 **Highlight:** Built a proprietary map-based real estate search system — full-text search, big-data storage, and realtime processing.
-
-`MariaDB (Flexview)` `MongoDB` `SphinxSearch` `Python (Django)` `Crossbar.io (WebSocket)` `Swift for iOS` `Digital Ocean`
-
-#### 🏢 United Information Highway Co., Ltd. · [`2014 ~ 2015`](http://uih.co.th)
-**.NET Developer**
-
-`ASP.NET` `SQL Server` `Java for Android` `Google Maps API`
-
-#### 🏢 Nysiis Solutions Co., Ltd. · [`2012 ~ 2014`](http://nysiissolutions.com)
-**.NET Developer**
-
-`.NET Framework` `SQL Server`
+**🤖 AI & Tooling**
+`Claude Agent SDK`
 
 ---
 
-### 📂 Featured Projects
+## 💼 Professional Journey
+
+### 🎯 Current Engagements
+
+**🏢 AutoX Co., Ltd.** · *Software Developer* · `2026 ~ now`
+
+**🏢 Siamese Codes** · *Full-Cycle Developer* · `2026 ~ now`
+
+**🏢 [P'nB Solutions Co., Ltd.](https://pnb.solutions)** · *Co-Founder* · `2025 ~ now`
+> Building the future with `Golang` · `Flutter` · `Claude Agent SDK`
+
+---
+
+### 🌟 Notable Milestones
+
+**🔗 [Bitkub Blockchain Technology Co., Ltd](https://www.bitkubblockchain.com)** · *Software Developer* · `2025 ~ 2026`
+> Designed and shipped **KUB Wallet 3.0**, a non-custodial crypto wallet on Bitkub Chain — owned UX/UI redesign, secure on-device key handling, and on-chain integration through production release on iOS and Android.
+- **Stack:** `Flutter` · `Dart` · `Bitkub Chain (KUB)` · `Smart Contract Integration`
+
+**🔗 [Tri Petch IT Solutions Co., Ltd.](https://www.tripetchgroup.com/en/tripetchitsolutions)** · *Software Developer* · `2023 ~ 2025`
+> Implemented and maintained the **my-ISUZU** application.
+- **Stack:** `Flutter with Riverpod` · `Kotlin for Native Android` · `Swift for Native iOS` · `CI/CD with Bitrise`
+
+**🔗 [Duckgroup Co., Ltd.](https://www.duckgroup.co)** · *Freelance ~ System Developer* · `2022 ~ 2025`
+- **Stack:** `Golang` · `PostgreSQL` · `Redis` · `AWS Services`
+
+**🔗 [Kayena Marketing Simulations](https://kayena-simulations.io)** · *Full Stack Developer* · `2022 ~ 2023`
+> Architected and built the **Phorjai**, **Bimini**, and **Painai** applications.
+- **Stack:** `Flutter (2.X)` · `Kotlin for Native Android` · `Swift for Native iOS`
+
+**🏢 WEDO** · *Technology Developer* · `2022 ~ 2022`
+> Connected device sensors to the server over MQTT and managed device state with Device Shadow.
+- **Stack:** `AWS IoT Core` · `MQTT` · `Device Shadow`
+
+---
+
+### 🏗️ Foundation & Leadership
+
+**🔗 [T-DEV Co., Ltd.](https://t-dev.co)** · *Full Stack Engineer* · `2019 ~ 2022`
+> Founder of T-DEV. Architected the **Otteri** platform, the **LC franchisee** platform, an internal payment gateway, and IoT services.
+- **Stack:** `Flutter (1.x)` · `Golang (Echo, Gofiber)` · `Python (Django)` · `Nuxt.js` · `Angular` · `MQTT with VerneMQ` · `gRPC` · `PostgreSQL` · `Redis` · `AsyncQ` · `Kubernetes (Kubesphere)` · `Digital Ocean`
+
+**🔗 [Bighead Creative Co., Ltd.](https://bighead-creative.com)** · *Mobile Developer* · `2016 ~ 2018`
+> Built **MTL Smile Service**, **Toyota T-Mex & Privilege**, and **Meetang**.
+- **Stack:** `Java for Android` · `Swift for iOS` · `Xamarin` · `.NET Framework` · `DNN Framework` · `AngularJS (1.x)` · `MySQL`
+
+**🔗 [Pinperty Co., Ltd.](https://pinperty.com)** · *System Engineer* · `2015 ~ 2016`
+> Built a proprietary map-based real estate search system — full-text search, big-data storage, and realtime processing.
+- **Stack:** `MariaDB (Flexview)` · `MongoDB` · `SphinxSearch` · `Python (Django)` · `Crossbar.io (WebSocket)` · `Swift for iOS` · `Digital Ocean`
+
+**🔗 [United Information Highway Co., Ltd.](http://uih.co.th)** · *.NET Developer* · `2014 ~ 2015`
+- **Stack:** `ASP.NET` · `SQL Server` · `Java for Android` · `Google Maps API`
+
+**🔗 [Nysiis Solutions Co., Ltd.](http://nysiissolutions.com)** · *.NET Developer* · `2012 ~ 2014`
+- **Stack:** `.NET Framework` · `SQL Server`
+
+---
+
+## 🚧 Crafted Artifacts
 
 | Project | Description |
-|--------|-------------|
-| [**city-blue**](https://github.com/b2nkuu/city-blue) | Blue-tinted tmux theme |
-| [**spirit**](https://github.com/b2nkuu/spirit) | Japanese-philosophy mindsets & skills for software development (Ikigai, Kaizen, Shokunin, Wabi-Sabi, Gaman, Kanso) |
-| [**solo**](https://github.com/b2nkuu/solo) | Claude Code plugin — solopreneur task manager backed by GitHub Issues |
+|:--------|:------------|
+| **[city-blue](https://github.com/b2nkuu/city-blue)** | Blue-tinted tmux theme |
+| **[spirit](https://github.com/b2nkuu/spirit)** | Japanese-philosophy mindsets & skills for software development *(Ikigai, Kaizen, Shokunin, Wabi-Sabi, Gaman, Kanso)* |
+| **[solo](https://github.com/b2nkuu/solo)** | Claude Code plugin — solopreneur task manager backed by GitHub Issues |
 
 ---
 
-### 🎓 Education
+## 🎓 Education & Credentials
 
-**Dhurakij Pundit University (DPU)** — Bachelor's degree, Computer Engineering · `2008 ~ 2012`
+**Dhurakij Pundit University (DPU)**  
+Bachelor's degree, Computer Engineering · `2008 ~ 2012`
 
-### 📜 Certifications
-
-- SQL Certificate - Basic
-- Problem Solving Certificate - Basic
+- 🏅 SQL Certificate — Basic
+- 🏅 Problem Solving Certificate — Basic
 
 ---
 
-### 💎 Wallets
+## ⛓️ Digital Vault
+
+*Supporting decentralized innovation — send it if you feel like it.*
 
 | Network | Address |
-|---------|---------|
+|:--------|:--------|
 | **Bitcoin (Taproot)** | `bc1pe4fsv9gx02v4ux390p2sdh2nse3jgpaxz59q7xllwpj8jev9rzysyu52hd` |
 | **EVM** | `0xF7DFD0f0F28f21DCB9CBC3e1ade5535A9F16da75` |
 | **TON Coin (W5)** | `UQAqEzHJm_w8hk_4iG7J2cCOIV5Ij74BIsvf-F3dC08yAB8p` |
@@ -145,6 +139,6 @@
 
 ---
 
-<p align="center"><em>Let's build something extraordinary together. Open for collaborations, freelance opportunities, and bold ideas.</em></p>
-
-<p align="center">Generated by kimi-k2.6 at 2026-11-11.</p>
+<p align="center">
+  <sub><em>Generated by kimi-k2.6 at 2026-11-12.</em></sub>
+</p>
